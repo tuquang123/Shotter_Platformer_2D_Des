@@ -1,0 +1,10 @@
+[
+    {
+        "type": "Coin",
+        "value": 100000
+    },
+    {
+        "type": "Gem",
+        "value": 500
+    }
+]

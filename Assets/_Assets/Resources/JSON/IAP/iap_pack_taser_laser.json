@@ -1,0 +1,10 @@
+[
+    {
+        "type": "GunLaser",
+        "value": 1
+    },
+    {
+        "type": "Coin",
+        "value": 35000
+    }
+]

@@ -1,0 +1,48 @@
+
+melee_slash.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 283, 32
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 283, 61
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+gio_0
+  rotate: false
+  xy: 1, 1
+  size: 136, 104
+  orig: 136, 104
+  offset: 0, 0
+  index: -1
+guitar_sl_1
+  rotate: false
+  xy: 243, 31
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+guitar_sl_2
+  rotate: false
+  xy: 138, 12
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+pan_sl
+  rotate: false
+  xy: 193, 30
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1

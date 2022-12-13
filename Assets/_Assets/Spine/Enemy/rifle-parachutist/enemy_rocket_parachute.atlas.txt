@@ -1,0 +1,895 @@
+
+enemy_rocket_parachute.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_map1_cap/bantaytrc2
+  rotate: false
+  xy: 417, 334
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+E_map1_cap/bantaytrc3
+  rotate: false
+  xy: 121, 2
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+E_map1_rifle/banchansau2
+  rotate: false
+  xy: 322, 195
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map3_rocket/banchansau2
+  rotate: false
+  xy: 322, 195
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map1_rifle/banchantrc
+  rotate: false
+  xy: 322, 182
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map3_rocket/banchantrc
+  rotate: false
+  xy: 322, 182
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map1_rifle/bantaysau
+  rotate: false
+  xy: 279, 136
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+E_map1_rifle/bantaytrc
+  rotate: false
+  xy: 301, 170
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+E_map1_rifle/chansau
+  rotate: false
+  xy: 113, 57
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+E_map1_rifle/chansau2
+  rotate: false
+  xy: 81, 24
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+E_map1_rifle/chansau_cr
+  rotate: false
+  xy: 238, 179
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+E_map1_rifle/chantrc1
+  rotate: false
+  xy: 186, 81
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+E_map1_rifle/chantrc2
+  rotate: false
+  xy: 57, 21
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+E_map1_rifle/dau
+  rotate: false
+  xy: 236, 275
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+E_map1_rifle/dau2
+  rotate: false
+  xy: 135, 199
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+E_map2_rifle/dau2
+  rotate: false
+  xy: 135, 199
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+E_map3_rifle/dau2
+  rotate: false
+  xy: 135, 199
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+E_map1_rifle/die1
+  rotate: false
+  xy: 1, 261
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+E_map1_rifle/die2
+  rotate: false
+  xy: 159, 468
+  size: 137, 43
+  orig: 137, 43
+  offset: 0, 0
+  index: -1
+E_map1_rifle/mieng1
+  rotate: false
+  xy: 112, 160
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+E_map2_rifle/mieng1
+  rotate: false
+  xy: 112, 160
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+E_map3_rifle/mieng1
+  rotate: false
+  xy: 112, 160
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+E_map3_rocket/mieng1
+  rotate: false
+  xy: 112, 160
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+E_map1_rifle/mieng2
+  rotate: false
+  xy: 486, 338
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+E_map2_rifle/mieng2
+  rotate: false
+  xy: 486, 338
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+E_map3_rifle/mieng2
+  rotate: false
+  xy: 486, 338
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+E_map3_rocket/mieng2
+  rotate: false
+  xy: 486, 338
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+E_map1_rifle/mieng3
+  rotate: false
+  xy: 486, 350
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+E_map2_rifle/mieng3
+  rotate: false
+  xy: 486, 350
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+E_map3_rifle/mieng3
+  rotate: false
+  xy: 486, 350
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+E_map3_rocket/mieng3
+  rotate: false
+  xy: 486, 350
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+E_map1_rifle/mieng4
+  rotate: false
+  xy: 400, 327
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+E_map2_rifle/mieng4
+  rotate: false
+  xy: 400, 327
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+E_map3_rifle/mieng4
+  rotate: false
+  xy: 400, 327
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+E_map3_rocket/mieng4
+  rotate: false
+  xy: 400, 327
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+E_map1_rifle/mu
+  rotate: false
+  xy: 135, 158
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+E_map1_rifle/ngontay
+  rotate: false
+  xy: 309, 233
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+E_map1_rifle/ngontaycai
+  rotate: false
+  xy: 139, 99
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+E_map3_rocket/ngontaycai
+  rotate: false
+  xy: 139, 99
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+E_map1_rifle/ngontaycai2
+  rotate: false
+  xy: 159, 366
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+E_map1_rifle/taysau1
+  rotate: false
+  xy: 242, 139
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+E_map1_rifle/taysau2
+  rotate: false
+  xy: 359, 315
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+E_map1_rifle/taysau2c
+  rotate: false
+  xy: 415, 369
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+E_map1_rifle/taytrc1
+  rotate: false
+  xy: 329, 340
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+E_map1_rifle/taytrc2
+  rotate: false
+  xy: 368, 254
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+E_map1_rifle/than1
+  rotate: false
+  xy: 277, 328
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+E_map1_rifle/than3
+  rotate: false
+  xy: 1, 53
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+E_map1_rifle/than4
+  rotate: false
+  xy: 1, 110
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+E_map1_rifle/thanduoi
+  rotate: false
+  xy: 186, 108
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+E_map2_cap/tui
+  rotate: false
+  xy: 491, 420
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+E_map2_rifle/banchansau2
+  rotate: false
+  xy: 417, 321
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map2_rifle/banchantrc
+  rotate: false
+  xy: 320, 169
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map2_rifle/bantaysau
+  rotate: false
+  xy: 278, 112
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+E_map2_rifle/bantaytrc
+  rotate: false
+  xy: 489, 399
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+E_map2_rifle/chansau
+  rotate: false
+  xy: 117, 24
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+E_map2_rifle/chansau2
+  rotate: false
+  xy: 222, 80
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+E_map2_rifle/chansau_cr
+  rotate: false
+  xy: 112, 113
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+E_map2_rifle/chantrc1
+  rotate: false
+  xy: 258, 80
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+E_map2_rifle/chantrc2
+  rotate: false
+  xy: 278, 191
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+E_map2_rifle/dau
+  rotate: false
+  xy: 233, 224
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+E_map2_rifle/die1
+  rotate: false
+  xy: 297, 421
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+E_map2_rifle/die2
+  rotate: false
+  xy: 159, 424
+  size: 137, 43
+  orig: 137, 43
+  offset: 0, 0
+  index: -1
+E_map2_rifle/mu
+  rotate: false
+  xy: 297, 379
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+E_map2_rifle/ngontay
+  rotate: false
+  xy: 309, 212
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+E_map2_rifle/ngontaycai
+  rotate: false
+  xy: 398, 300
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+E_map2_rifle/ngontaycai2
+  rotate: false
+  xy: 465, 433
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+E_map2_rifle/taysau1
+  rotate: false
+  xy: 449, 336
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+E_map2_rifle/taysau2
+  rotate: false
+  xy: 57, 90
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+E_map2_rifle/taysau2c
+  rotate: false
+  xy: 152, 106
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+E_map2_rifle/taytrc1
+  rotate: false
+  xy: 368, 276
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+E_map2_rifle/taytrc2
+  rotate: false
+  xy: 302, 254
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+E_map2_rifle/than1
+  rotate: false
+  xy: 225, 327
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+E_map2_rifle/than3
+  rotate: false
+  xy: 135, 251
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+E_map3_rifle/than3
+  rotate: false
+  xy: 135, 251
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+E_map2_rifle/than4
+  rotate: false
+  xy: 1, 1
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+E_map3_rifle/than4
+  rotate: false
+  xy: 1, 1
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+E_map2_rifle/thanduoi
+  rotate: false
+  xy: 232, 107
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+E_map3_rifle/banchansau2
+  rotate: false
+  xy: 486, 364
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+E_map3_rifle/banchantrc
+  rotate: false
+  xy: 465, 421
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+E_map3_rifle/bantaysau
+  rotate: false
+  xy: 329, 208
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+E_map3_rifle/bantaytrc
+  rotate: false
+  xy: 57, 1
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+E_map3_rifle/chan_parachute
+  rotate: false
+  xy: 190, 140
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+E_map3_rifle/chansau
+  rotate: false
+  xy: 332, 310
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+E_map3_rocket/chansau
+  rotate: false
+  xy: 332, 310
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+E_map3_rifle/chansau2
+  rotate: false
+  xy: 431, 421
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+E_map3_rocket/chansau2
+  rotate: false
+  xy: 431, 421
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+E_map3_rifle/chansau_cr
+  rotate: false
+  xy: 449, 376
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+E_map3_rocket/chansau_cr
+  rotate: false
+  xy: 449, 376
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+E_map3_rifle/chantrc1
+  rotate: false
+  xy: 449, 311
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+E_map3_rocket/chantrc1
+  rotate: false
+  xy: 449, 311
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+E_map3_rifle/chantrc2
+  rotate: false
+  xy: 279, 160
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+E_map3_rocket/chantrc2
+  rotate: false
+  xy: 279, 160
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+E_map3_rifle/dau
+  rotate: false
+  xy: 190, 173
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+E_map3_rifle/die1
+  rotate: false
+  xy: 1, 214
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+E_map3_rifle/die2
+  rotate: false
+  xy: 297, 468
+  size: 137, 43
+  orig: 137, 43
+  offset: 0, 0
+  index: -1
+E_map3_rifle/enemy_parachute
+  rotate: false
+  xy: 1, 366
+  size: 157, 145
+  orig: 157, 145
+  offset: 0, 0
+  index: -1
+E_map3_rifle/mu
+  rotate: false
+  xy: 359, 338
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+E_map3_rifle/ngontay
+  rotate: false
+  xy: 281, 253
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+E_map3_rifle/ngontaycai
+  rotate: false
+  xy: 398, 287
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+E_map3_rifle/ngontaycai2
+  rotate: false
+  xy: 400, 314
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+E_map3_rifle/taysau1
+  rotate: false
+  xy: 477, 439
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+E_map3_rifle/taysau2
+  rotate: false
+  xy: 81, 3
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+E_map3_rifle/taysau2c
+  rotate: false
+  xy: 135, 304
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+E_map3_rocket/taysau2c
+  rotate: false
+  xy: 135, 304
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+E_map3_rifle/taytrc1
+  rotate: false
+  xy: 55, 54
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+E_map3_rifle/taytrc2
+  rotate: false
+  xy: 329, 229
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+E_map3_rifle/than1
+  rotate: false
+  xy: 57, 113
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+E_map3_rifle/thanduoi
+  rotate: false
+  xy: 435, 447
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+E_map3_rocket/thanduoi
+  rotate: false
+  xy: 435, 447
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+E_map3_rocket/bantaysau
+  rotate: false
+  xy: 281, 224
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+E_map3_rocket/bantaytrc
+  rotate: false
+  xy: 489, 378
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+E_map3_rocket/dau
+  rotate: false
+  xy: 284, 276
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+E_map3_rocket/dau2
+  rotate: false
+  xy: 184, 224
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+E_map3_rocket/die1
+  rotate: false
+  xy: 1, 167
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+E_map3_rocket/die2
+  rotate: false
+  xy: 159, 380
+  size: 137, 43
+  orig: 137, 43
+  offset: 0, 0
+  index: -1
+E_map3_rocket/mu
+  rotate: false
+  xy: 507, 506
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+E_map3_rocket/ngontay
+  rotate: false
+  xy: 302, 191
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+E_map3_rocket/ngontaycai2
+  rotate: false
+  xy: 171, 313
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+E_map3_rocket/taysau1
+  rotate: false
+  xy: 332, 270
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+E_map3_rocket/taysau2
+  rotate: false
+  xy: 98, 90
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+E_map3_rocket/taytrc1
+  rotate: false
+  xy: 83, 51
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+E_map3_rocket/taytrc2
+  rotate: false
+  xy: 332, 248
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+E_map3_rocket/than1
+  rotate: false
+  xy: 184, 276
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+E_map3_rocket/than3
+  rotate: false
+  xy: 171, 327
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+E_map3_rocket/than4
+  rotate: false
+  xy: 359, 369
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+e_pistol_map2
+  rotate: false
+  xy: 435, 478
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+e_rifle1
+  rotate: false
+  xy: 1, 308
+  size: 133, 57
+  orig: 133, 57
+  offset: 0, 0
+  index: -1

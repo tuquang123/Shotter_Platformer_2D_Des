@@ -1,0 +1,2 @@
+int drawable ic_stat_ic_notification 0x7f080001
+int mipmap app_icon 0x7f100001

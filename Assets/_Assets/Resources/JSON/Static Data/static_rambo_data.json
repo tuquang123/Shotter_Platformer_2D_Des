@@ -1,0 +1,9 @@
+{
+    "0": {
+        "id": 0,
+        "ramboName": "JOHN DIGGER",
+        "country": "America",
+        "description": "",
+        "upgradeInfo": [ 0, 350, 12740, 14560, 16380, 20020, 23660, 27300, 30940, 34580 ]
+    }
+}

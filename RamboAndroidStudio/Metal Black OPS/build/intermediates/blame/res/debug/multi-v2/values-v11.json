@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "584"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "181",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "710"
+                    }
+                },
+                {
+                    "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e7525bcfc93047138419105c7c325e76/com.google.android.gms.play-services-appinvite-17.0.0/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "170",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "291"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "176"
+                    }
+                }
+            ]
+        }
+    ]
+}

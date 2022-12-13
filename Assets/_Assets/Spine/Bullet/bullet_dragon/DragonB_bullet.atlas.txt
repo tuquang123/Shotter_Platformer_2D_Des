@@ -1,0 +1,104 @@
+
+DragonB_bullet.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 966, 18
+  size: 45, 101
+  orig: 45, 101
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 920, 17
+  size: 45, 102
+  orig: 45, 102
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 874, 14
+  size: 45, 105
+  orig: 45, 105
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 775, 9
+  size: 49, 110
+  orig: 49, 110
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 825, 6
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 109, 10
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 66, 1
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 1, 55
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 130, 55
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+e3
+  rotate: false
+  xy: 259, 55
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 388, 55
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+e5
+  rotate: false
+  xy: 517, 55
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+e6
+  rotate: false
+  xy: 646, 55
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 1, 5
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,3 @@
+com.sevenapp.metalblackops.resources
+drawable ic_stat_ic_notification
+mipmap app_icon

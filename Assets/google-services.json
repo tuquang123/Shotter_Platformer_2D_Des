@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568851166597",
+    "firebase_url": "https://metal-black-ops-6449e.firebaseio.com",
+    "project_id": "metal-black-ops-6449e",
+    "storage_bucket": "metal-black-ops-6449e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568851166597:android:f04a02d32ccd2ccf3c00ec",
+        "android_client_info": {
+          "package_name": "com.sevenapp.metalblackops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568851166597-ta45v7ougkj20kts8e0sku4aqm070fuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sevenapp.metalblackops",
+            "certificate_hash": "496bc4da314b05db587be4050c08afcf9d600081"
+          }
+        },
+        {
+          "client_id": "568851166597-v0jqmfbu52cn81k704nqi5fq6b1r24s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkuYJNwsSiqn2nwqaX3Aru98emnWDTHGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568851166597-v0jqmfbu52cn81k704nqi5fq6b1r24s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

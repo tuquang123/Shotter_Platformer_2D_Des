@@ -1,0 +1,62 @@
+
+boss_map3_ray_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 283, 158
+  size: 139, 50
+  orig: 139, 50
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 120, 1
+  size: 149, 65
+  orig: 149, 65
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 286, 209
+  size: 154, 74
+  orig: 154, 74
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 120, 158
+  size: 162, 99
+  orig: 162, 99
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 120, 258
+  size: 165, 122
+  orig: 165, 122
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 286, 284
+  size: 152, 96
+  orig: 152, 96
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 120, 67
+  size: 143, 90
+  orig: 143, 90
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 1, 5
+  size: 118, 375
+  orig: 118, 375
+  offset: 0, 0
+  index: -1

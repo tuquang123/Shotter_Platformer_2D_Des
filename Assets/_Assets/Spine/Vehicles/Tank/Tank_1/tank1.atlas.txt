@@ -1,0 +1,104 @@
+
+tank1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banh_1
+  rotate: false
+  xy: 131, 101
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+banh_1b
+  rotate: false
+  xy: 168, 258
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+banh_2
+  rotate: false
+  xy: 219, 254
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+giap
+  rotate: false
+  xy: 2, 374
+  size: 286, 63
+  orig: 286, 63
+  offset: 0, 0
+  index: -1
+ong_khoi
+  rotate: false
+  xy: 232, 305
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+sung1
+  rotate: false
+  xy: 2, 2
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+sung2
+  rotate: false
+  xy: 392, 465
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+tank_dead
+  rotate: false
+  xy: 2, 255
+  size: 164, 117
+  orig: 164, 117
+  offset: 0, 0
+  index: -1
+ten_lua
+  rotate: false
+  xy: 305, 469
+  size: 85, 41
+  orig: 85, 41
+  offset: 0, 0
+  index: -1
+than1
+  rotate: false
+  xy: 2, 151
+  size: 160, 102
+  orig: 160, 102
+  offset: 0, 0
+  index: -1
+than2
+  rotate: false
+  xy: 2, 439
+  size: 301, 71
+  orig: 301, 71
+  offset: 0, 0
+  index: -1
+than3
+  rotate: false
+  xy: 2, 34
+  size: 127, 115
+  orig: 127, 115
+  offset: 0, 0
+  index: -1
+than_sung
+  rotate: false
+  xy: 168, 310
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+xich
+  rotate: false
+  xy: 77, 18
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1

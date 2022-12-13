@@ -1,0 +1,18 @@
+{
+    "finish_stage": "Complete mission",
+    "finish_stage_in_time": "Clearance within {0} seconds",
+    "finish_stage_without_revive": "Clearance without reviving",
+    "combo_kill": "Get {0} combo kills",
+    "combo_kill_by_special_gun": "Get {0} combo kills by special gun",
+    "kill_enemy_by_grenade": "Kill {0} enemies by grenades",
+    "kill_enemy_by_knife": "Kill {0} enemies by melee weapon",
+    "kill_enemy_by_special_gun": "Kill {0} enemies by special gun",
+    "kill_final_boss": "Kill final boss",
+    "kill_final_boss_in_time": "Kill final boss in {0} seconds",
+    "kill_tank_by_grenade": "Kill {0} tank(s) by grenades",
+    "remaining_hp": "More than {0}% HP remaining",
+    "boat_not_hit_obstacle": "Get away without clashing into any obstacle",
+    "use_booster_damage": "Use booster Biscep Steroid",
+    "use_grenades": "Use grenade {0} times",
+    "kill_boss_monkey_by_grenade": "Kill boss Monkey King by grenade"
+}

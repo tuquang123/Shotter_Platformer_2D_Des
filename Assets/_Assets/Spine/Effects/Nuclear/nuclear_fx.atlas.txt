@@ -1,0 +1,104 @@
+
+nuclear_fx.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sparks 077 Charge Impact Up_00000
+  rotate: false
+  xy: 1, 52
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Sparks 077 Charge Impact Up_00001
+  rotate: false
+  xy: 456, 293
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Sparks 077 Charge Impact Up_00002
+  rotate: false
+  xy: 127, 52
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Sparks 077 Charge Impact Up_00003
+  rotate: false
+  xy: 582, 293
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Sparks 077 Charge Impact Up_00004
+  rotate: false
+  xy: 456, 167
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Sparks 077 Charge Impact Up_00005
+  rotate: false
+  xy: 582, 167
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Sparks 077 Charge Impact Up_00006
+  rotate: false
+  xy: 708, 293
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Sparks 077 Charge Impact Up_00007
+  rotate: false
+  xy: 708, 167
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Sparks 077 Charge Impact Up_00008
+  rotate: false
+  xy: 834, 339
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+Sparks 077 Charge Impact Up_00009
+  rotate: false
+  xy: 834, 213
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+muzzle_1
+  rotate: false
+  xy: 456, 419
+  size: 313, 45
+  orig: 313, 45
+  offset: 0, 0
+  index: -1
+muzzle_2
+  rotate: false
+  xy: 1, 178
+  size: 307, 52
+  orig: 307, 52
+  offset: 0, 0
+  index: -1
+ray_2
+  rotate: false
+  xy: 1, 1
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+ray_explos
+  rotate: false
+  xy: 1, 231
+  size: 454, 233
+  orig: 454, 233
+  offset: 0, 0
+  index: -1

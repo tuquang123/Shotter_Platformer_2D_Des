@@ -1,0 +1,14 @@
+[
+    {
+        "type": "GrenadeF1",
+        "value": 10
+    },
+    {
+        "type": "Coin",
+        "value": 15000
+    },
+    {
+        "type": "Gem",
+        "value": 100
+    }
+]

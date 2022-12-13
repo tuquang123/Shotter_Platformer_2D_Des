@@ -1,0 +1,181 @@
+
+enemy_diver.png
+size: 213,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_map2_diver/banchansau2
+  rotate: false
+  xy: 171, 134
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map2_diver/banchantrc
+  rotate: false
+  xy: 43, 6
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map2_diver/bantaysau
+  rotate: false
+  xy: 129, 15
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+E_map2_diver/bantaytrc
+  rotate: false
+  xy: 154, 52
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+E_map2_diver/binh
+  rotate: false
+  xy: 2, 52
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+E_map2_diver/chansau
+  rotate: false
+  xy: 141, 102
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+E_map2_diver/chansau2
+  rotate: false
+  xy: 94, 75
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+E_map2_diver/chansau_cr
+  rotate: false
+  xy: 2, 6
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+E_map2_diver/chantrc1
+  rotate: false
+  xy: 131, 74
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+E_map2_diver/chantrc2
+  rotate: false
+  xy: 129, 40
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+E_map2_diver/dau
+  rotate: false
+  xy: 2, 128
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+E_map2_diver/mu
+  rotate: false
+  xy: 69, 129
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+E_map2_diver/ngontay
+  rotate: false
+  xy: 192, 191
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+E_map2_diver/ngontaycai
+  rotate: false
+  xy: 171, 119
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+E_map2_diver/ngontaycai2
+  rotate: false
+  xy: 200, 176
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+E_map2_diver/taysau1
+  rotate: false
+  xy: 161, 148
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+E_map2_diver/taysau2
+  rotate: false
+  xy: 150, 189
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+E_map2_diver/taysau2c
+  rotate: false
+  xy: 126, 136
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+E_map2_diver/taytrc1
+  rotate: false
+  xy: 98, 35
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+E_map2_diver/taytrc2
+  rotate: false
+  xy: 98, 12
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+E_map2_diver/than1
+  rotate: false
+  xy: 40, 74
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+E_map2_diver/than3
+  rotate: false
+  xy: 43, 20
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+E_map2_diver/than4
+  rotate: false
+  xy: 69, 136
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+E_map2_diver/thanduoi
+  rotate: false
+  xy: 94, 103
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+E_map2_diver/trident
+  rotate: false
+  xy: 2, 189
+  size: 146, 22
+  orig: 146, 22
+  offset: 0, 0
+  index: -1

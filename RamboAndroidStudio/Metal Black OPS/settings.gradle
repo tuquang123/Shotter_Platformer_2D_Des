@@ -1,0 +1,3 @@
+include 'Firebase'
+include 'GoogleMobileAdsPlugin'
+include 'unity-android-resources'

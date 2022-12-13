@@ -1,0 +1,20 @@
+
+boss_map3_ray.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray1a
+  rotate: false
+  xy: 1, 1
+  size: 100, 358
+  orig: 100, 358
+  offset: 0, 0
+  index: -1
+ray1b
+  rotate: false
+  xy: 102, 1
+  size: 100, 358
+  orig: 100, 358
+  offset: 0, 0
+  index: -1

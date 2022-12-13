@@ -1,0 +1,230 @@
+
+boss_map2_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_map2_2_dead
+  rotate: false
+  xy: 612, 361
+  size: 337, 149
+  orig: 337, 149
+  offset: 0, 0
+  index: -1
+canh
+  rotate: false
+  xy: 267, 12
+  size: 126, 40
+  orig: 126, 40
+  offset: 0, 0
+  index: -1
+canhngam
+  rotate: false
+  xy: 339, 146
+  size: 137, 58
+  orig: 137, 58
+  offset: 0, 0
+  index: -1
+cua
+  rotate: false
+  xy: 478, 69
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+cua2
+  rotate: false
+  xy: 597, 78
+  size: 115, 131
+  orig: 115, 131
+  offset: 0, 0
+  index: -1
+duoi1
+  rotate: false
+  xy: 714, 111
+  size: 76, 114
+  orig: 76, 114
+  offset: 0, 0
+  index: -1
+duoi2
+  rotate: false
+  xy: 792, 145
+  size: 76, 114
+  orig: 76, 114
+  offset: 0, 0
+  index: -1
+khoangtrong
+  rotate: false
+  xy: 2, 132
+  size: 335, 165
+  orig: 335, 165
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: false
+  xy: 714, 42
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: false
+  xy: 951, 362
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+mat3
+  rotate: false
+  xy: 704, 227
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+may
+  rotate: false
+  xy: 592, 211
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+nap
+  rotate: false
+  xy: 612, 298
+  size: 144, 19
+  orig: 144, 19
+  offset: 0, 0
+  index: -1
+nap2
+  rotate: false
+  xy: 873, 247
+  size: 88, 17
+  orig: 88, 17
+  offset: 0, 0
+  index: -1
+ong
+  rotate: false
+  xy: 612, 319
+  size: 212, 40
+  orig: 212, 40
+  offset: 0, 0
+  index: -1
+ongnhom
+  rotate: false
+  xy: 951, 415
+  size: 63, 95
+  orig: 63, 95
+  offset: 0, 0
+  index: -1
+phao1
+  rotate: false
+  xy: 784, 261
+  size: 87, 52
+  orig: 87, 52
+  offset: 0, 0
+  index: -1
+phao2
+  rotate: false
+  xy: 795, 50
+  size: 82, 93
+  orig: 82, 93
+  offset: 0, 0
+  index: -1
+phao3
+  rotate: false
+  xy: 826, 315
+  size: 104, 21
+  orig: 104, 21
+  offset: 0, 0
+  index: -1
+phao4a
+  rotate: false
+  xy: 870, 200
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+phao4b
+  rotate: false
+  xy: 826, 338
+  size: 133, 21
+  orig: 133, 21
+  offset: 0, 0
+  index: -1
+phao4c
+  rotate: false
+  xy: 870, 167
+  size: 81, 31
+  orig: 81, 31
+  offset: 0, 0
+  index: -1
+phao4d
+  rotate: false
+  xy: 873, 266
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 299
+  size: 608, 211
+  orig: 608, 211
+  offset: 0, 0
+  index: -1
+than2
+  rotate: false
+  xy: 2, 54
+  size: 424, 76
+  orig: 424, 76
+  offset: 0, 0
+  index: -1
+than3
+  rotate: false
+  xy: 2, 14
+  size: 188, 38
+  orig: 188, 38
+  offset: 0, 0
+  index: -1
+than3b
+  rotate: false
+  xy: 192, 2
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+than4
+  rotate: false
+  xy: 339, 206
+  size: 251, 91
+  orig: 251, 91
+  offset: 0, 0
+  index: -1
+than4b
+  rotate: false
+  xy: 879, 100
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+thuyloi
+  rotate: false
+  xy: 597, 30
+  size: 92, 46
+  orig: 92, 46
+  offset: 0, 0
+  index: -1
+thuyloi2
+  rotate: false
+  xy: 795, 2
+  size: 92, 46
+  orig: 92, 46
+  offset: 0, 0
+  index: -1
+thuyloi3
+  rotate: false
+  xy: 879, 138
+  size: 89, 27
+  orig: 89, 27
+  offset: 0, 0
+  index: -1

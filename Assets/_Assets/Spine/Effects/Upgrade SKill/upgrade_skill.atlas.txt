@@ -1,0 +1,174 @@
+
+upgrade_skill.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 171
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 86
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1, 1
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 86, 171
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 86, 86
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 86, 1
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+q01
+  rotate: false
+  xy: 171, 94
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q02
+  rotate: false
+  xy: 252, 175
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q03
+  rotate: false
+  xy: 171, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q04
+  rotate: false
+  xy: 252, 94
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q05
+  rotate: false
+  xy: 333, 175
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q06
+  rotate: false
+  xy: 252, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q07
+  rotate: false
+  xy: 333, 94
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q08
+  rotate: false
+  xy: 414, 175
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q09
+  rotate: false
+  xy: 333, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q10
+  rotate: false
+  xy: 414, 94
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q11
+  rotate: false
+  xy: 495, 175
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+q12
+  rotate: false
+  xy: 171, 175
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 414, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 495, 94
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 576, 175
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 495, 13
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 576, 94
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 657, 175
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

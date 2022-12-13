@@ -1,0 +1,13 @@
+{
+    "500": {
+        "id": 500,
+        "grenadeName": "F1-NADE",
+        "statsPath": "Scriptable Object/Grenade/Grenade Base/grenade_base_lv{0}",
+        "coinUnlock": 0,
+        "gemUnlock": 0,
+        "medalUnlock": 0,
+        "pricePerUnit": 500,
+        "upgradeInfo": [ 0, 5000, 6500, 8000, 9500, 11000, 12500, 14000, 15500, 17000 ],
+        "otherWayObtain": [ ]
+    }
+}

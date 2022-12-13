@@ -1,0 +1,440 @@
+
+enemy_knife.png
+size: 336,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_map1_knife/banchansau2
+  rotate: false
+  xy: 231, 74
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map1_knife/banchantrc
+  rotate: false
+  xy: 193, 36
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map1_knife/bantaysau
+  rotate: false
+  xy: 262, 143
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+E_map1_knife/bantaytrc
+  rotate: false
+  xy: 291, 146
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+E_map1_knife/chansau
+  rotate: false
+  xy: 304, 249
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+E_map1_knife/chansau2
+  rotate: false
+  xy: 49, 2
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+E_map1_knife/chansau_cr
+  rotate: false
+  xy: 184, 137
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+E_map1_knife/chantrc1
+  rotate: false
+  xy: 123, 2
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+E_map1_knife/chantrc2
+  rotate: false
+  xy: 303, 192
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+E_map1_knife/dau
+  rotate: false
+  xy: 94, 82
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+E_map1_knife/dau2
+  rotate: false
+  xy: 143, 30
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+E_map1_knife/die1
+  rotate: false
+  xy: 141, 288
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+E_map1_knife/die2
+  rotate: false
+  xy: 2, 291
+  size: 137, 43
+  orig: 137, 43
+  offset: 0, 0
+  index: -1
+E_map1_knife/mieng1
+  rotate: false
+  xy: 192, 237
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+E_map2_knife/mieng1
+  rotate: false
+  xy: 192, 237
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+E_map1_knife/mieng2
+  rotate: false
+  xy: 231, 47
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+E_map2_knife/mieng2
+  rotate: false
+  xy: 231, 47
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+E_map1_knife/mieng3
+  rotate: false
+  xy: 314, 133
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+E_map2_knife/mieng3
+  rotate: false
+  xy: 314, 133
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+E_map1_knife/mieng4
+  rotate: false
+  xy: 314, 121
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+E_map2_knife/mieng4
+  rotate: false
+  xy: 314, 121
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+E_map1_knife/mu
+  rotate: false
+  xy: 131, 191
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+E_map1_knife/ngontay
+  rotate: false
+  xy: 315, 170
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+E_map1_knife/ngontaycai
+  rotate: false
+  xy: 251, 45
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+E_map1_knife/ngontaycai2
+  rotate: false
+  xy: 296, 109
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+E_map1_knife/taysau1
+  rotate: false
+  xy: 225, 142
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+E_map1_knife/taysau2
+  rotate: false
+  xy: 257, 226
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+E_map1_knife/taysau2c
+  rotate: false
+  xy: 94, 135
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+E_map1_knife/taytrc1
+  rotate: false
+  xy: 234, 102
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+E_map1_knife/taytrc2
+  rotate: false
+  xy: 299, 226
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+E_map1_knife/than1
+  rotate: false
+  xy: 204, 236
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+E_map1_knife/than3
+  rotate: false
+  xy: 137, 191
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+E_map1_knife/than4
+  rotate: false
+  xy: 2, 37
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+E_map1_knife/thanduoi
+  rotate: false
+  xy: 2, 4
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+E_map2_knife/banchansau2
+  rotate: false
+  xy: 231, 60
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map2_knife/banchantrc
+  rotate: false
+  xy: 234, 88
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+E_map2_knife/bantaysau
+  rotate: false
+  xy: 265, 118
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+E_map2_knife/bantaytrc
+  rotate: false
+  xy: 294, 124
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+E_map2_knife/chansau
+  rotate: false
+  xy: 273, 192
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+E_map2_knife/chansau2
+  rotate: false
+  xy: 86, 2
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+E_map2_knife/chansau_cr
+  rotate: false
+  xy: 193, 91
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+E_map2_knife/chantrc1
+  rotate: false
+  xy: 160, 2
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+E_map2_knife/chantrc2
+  rotate: false
+  xy: 197, 2
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+E_map2_knife/dau
+  rotate: false
+  xy: 94, 30
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+E_map2_knife/dau2
+  rotate: false
+  xy: 192, 183
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+E_map2_knife/die1
+  rotate: false
+  xy: 2, 198
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+E_map2_knife/die2
+  rotate: false
+  xy: 2, 246
+  size: 137, 43
+  orig: 137, 43
+  offset: 0, 0
+  index: -1
+E_map2_knife/khien
+  rotate: false
+  xy: 59, 85
+  size: 33, 111
+  orig: 33, 111
+  offset: 0, 0
+  index: -1
+E_map2_knife/khien2
+  rotate: false
+  xy: 2, 90
+  size: 55, 106
+  orig: 55, 106
+  offset: 0, 0
+  index: -1
+E_map2_knife/mu
+  rotate: false
+  xy: 141, 245
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+E_map2_knife/ngontay
+  rotate: false
+  xy: 315, 148
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+E_map2_knife/ngontaycai
+  rotate: false
+  xy: 309, 106
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+E_map2_knife/ngontaycai2
+  rotate: false
+  xy: 296, 94
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+E_map2_knife/taysau1
+  rotate: false
+  xy: 193, 50
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+E_map2_knife/taysau2
+  rotate: false
+  xy: 273, 168
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+E_map2_knife/taysau2c
+  rotate: false
+  xy: 59, 32
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+E_map2_knife/taytrc1
+  rotate: false
+  xy: 242, 186
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+E_map2_knife/taytrc2
+  rotate: false
+  xy: 265, 95
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+E_map2_knife/than1
+  rotate: false
+  xy: 131, 137
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+E_map2_knife/than3
+  rotate: false
+  xy: 143, 83
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+E_map2_knife/than4
+  rotate: false
+  xy: 276, 283
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+E_map2_knife/thanduoi
+  rotate: false
+  xy: 257, 250
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1

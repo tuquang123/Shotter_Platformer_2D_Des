@@ -1,0 +1,160 @@
+
+E_map2_fireman.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banchansau2
+  rotate: false
+  xy: 254, 3
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+banchantrc
+  rotate: false
+  xy: 51, 8
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+bantaysau
+  rotate: false
+  xy: 293, 21
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+bantaytrc
+  rotate: false
+  xy: 329, 24
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+chansau
+  rotate: false
+  xy: 391, 36
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+chansau2
+  rotate: false
+  xy: 355, 16
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+chantrc1
+  rotate: false
+  xy: 355, 42
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+chantrc2
+  rotate: false
+  xy: 418, 35
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 207, 1
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+die2
+  rotate: false
+  xy: 1, 21
+  size: 205, 106
+  orig: 205, 106
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 276, 54
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 79, 5
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 1, 1
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+ngontay
+  rotate: false
+  xy: 325, 55
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+ngontaycai
+  rotate: false
+  xy: 35, 1
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+taysau1
+  rotate: false
+  xy: 405, 66
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+taysau2
+  rotate: false
+  xy: 456, 89
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+taysau2c
+  rotate: false
+  xy: 276, 89
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+taytrc1
+  rotate: false
+  xy: 353, 67
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+taytrc2
+  rotate: false
+  xy: 254, 16
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+than1
+  rotate: false
+  xy: 207, 53
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+thanduoi
+  rotate: false
+  xy: 456, 58
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1

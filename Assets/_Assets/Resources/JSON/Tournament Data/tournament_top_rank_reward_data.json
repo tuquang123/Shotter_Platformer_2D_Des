@@ -1,0 +1,44 @@
+{
+    "0": [
+        {
+            "type": "Coin",
+            "value": 300000
+        },
+        {
+            "type": "Gem",
+            "value": 3000
+        },
+        {
+            "type": "Medal",
+            "value": 2000
+        }
+    ],
+    "1": [
+        {
+            "type": "Coin",
+            "value": 200000
+        },
+        {
+            "type": "Gem",
+            "value": 2000
+        },
+        {
+            "type": "Medal",
+            "value": 1000
+        }
+    ],
+    "2": [
+        {
+            "type": "Coin",
+            "value": 100000
+        },
+        {
+            "type": "Gem",
+            "value": 1000
+        },
+        {
+            "type": "Medal",
+            "value": 500
+        }
+    ]
+}

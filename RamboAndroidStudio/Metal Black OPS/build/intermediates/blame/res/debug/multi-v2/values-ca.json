@@ -1,0 +1,111 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+            "map": [
+                {
+                    "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "3685",
+                        "endColumns": "100",
+                        "endOffsets": "3781"
+                    }
+                },
+                {
+                    "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/b5f872bcd388410084cdf518cc4ec2a4/com.google.android.gms.play-services-gcm-17.0.0/res/values-ca/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "190",
+                        "endColumns": "97",
+                        "endOffsets": "287"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2947",
+                        "endColumns": "101",
+                        "endOffsets": "3044"
+                    }
+                },
+                {
+                    "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/values-ca/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,348,532,657,764,973,1098,1247,1380,1610,1717,1907,2036,2259,2443,2534,2628",
+                        "endColumns": "102,183,124,106,208,124,148,132,229,106,189,128,222,183,90,93,111",
+                        "endOffsets": "347,531,656,763,972,1097,1246,1379,1609,1716,1906,2035,2258,2442,2533,2627,2739"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,396,525,636,845,974,1127,1458,1688,1799,1989,2122,2345,2533,2628,2726",
+                        "endColumns": "106,183,128,110,208,128,152,136,229,110,189,132,222,187,94,97,115",
+                        "endOffsets": "207,391,520,631,840,969,1122,1259,1683,1794,1984,2117,2340,2528,2623,2721,2837"
+                    }
+                },
+                {
+                    "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e85e24d4d3ba1ab6630dec537ed3ebde/com.google.android.gms.play-services-ads-17.0.0/res/values-ca/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,268,391,456,521,612,732",
+                        "endColumns": "70,122,64,64,90,119,72",
+                        "endOffsets": "267,390,455,520,611,731,804"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "3049,3124,3251,3320,3389,3484,3608",
+                        "endColumns": "74,126,68,68,94,123,76",
+                        "endOffsets": "3119,3246,3315,3384,3479,3603,3680"
+                    }
+                },
+                {
+                    "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/8332131f6675301b4c0f7ae3fe17e1e6/com.google.android.gms.play-services-basement-17.0.0/res/values-ca/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "193",
+                        "endOffsets": "440"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1264",
+                        "endColumns": "193",
+                        "endOffsets": "1453"
+                    }
+                },
+                {
+                    "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/res/values-ca/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "100",
+                        "endOffsets": "305"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2842",
+                        "endColumns": "104",
+                        "endOffsets": "2942"
+                    }
+                }
+            ]
+        }
+    ]
+}

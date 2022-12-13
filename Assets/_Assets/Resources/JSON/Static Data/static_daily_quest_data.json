@@ -1,0 +1,533 @@
+[
+    {
+        "type": "COMPLETE_ALL_QUEST",
+        "value": 1,
+        "title": "Perfect!",
+        "description": "Complete all daily quests.",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "GrenadeF1",
+                "value": 5
+            },
+            {
+                "type": "Gem",
+                "value": 50
+            },
+            {
+                "type": "Coin",
+                "value": 5000
+            }
+        ]
+    },
+    {
+        "type": "KILL_ENEMY",
+        "value": 250,
+        "title": "I kill you all",
+        "description": "Kill {0} enemies",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 20
+            },
+            {
+                "type": "Coin",
+                "value": 2000
+            }
+        ]
+    },
+    {
+        "type": "KILL_ENEMY_RIFLE",
+        "value": 30,
+        "title": "Rifleman slayer",
+        "description": "Kill {0} riflemans",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Coin",
+                "value": 900
+            },
+            {
+                "type": "Exp",
+                "value": 90
+            }
+        ]
+    },
+    {
+        "type": "KILL_ENEMY_KNIFE",
+        "value": 30,
+        "title": "Fight to the death",
+        "description": "Kill {0} knifemans",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Coin",
+                "value": 930
+            },
+            {
+                "type": "Exp",
+                "value": 95
+            }
+        ]
+    },
+    {
+        "type": "KILL_ENEMY_GRENADE",
+        "value": 15,
+        "title": "Grenader slayer",
+        "description": "Kill {0} grenaders",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Coin",
+                "value": 960
+            },
+            {
+                "type": "Exp",
+                "value": 95
+            }
+        ]
+    },
+    {
+        "type": "KILL_ENEMY_GENERAL",
+        "value": 15,
+        "title": "General's call",
+        "description": "Kill {0} generals",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Coin",
+                "value": 990
+            },
+            {
+                "type": "Exp",
+                "value": 100
+            }
+        ]
+    },
+    {
+        "type": "KILL_ENEMY_TANK",
+        "value": 5,
+        "title": "Anti-tank weapon",
+        "description": "Kill {0} tanks",
+        "skipPrice": 2,
+        "rewards": [
+            {
+                "type": "Coin",
+                "value": 2500
+            },
+            {
+                "type": "Exp",
+                "value": 250
+            }
+        ]
+    },
+    {
+        "type": "KILL_ENEMY_BY_MELEE_WEAPON",
+        "value": 15,
+        "title": "Get mugged",
+        "description": "Kill {0} enemies by melee weapon",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Coin",
+                "value": 1000
+            },
+            {
+                "type": "Exp",
+                "value": 100
+            }
+        ]
+    },
+    {
+        "type": "KILL_ENEMY_BY_GRENADE",
+        "value": 20,
+        "title": "Quite the firework",
+        "description": "Kill {0} enemies by grenade",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Coin",
+                "value": 2000
+            },
+            {
+                "type": "Exp",
+                "value": 200
+            }
+        ]
+    },
+    {
+        "type": "COMPLETE_STAGE",
+        "value": 3,
+        "title": "Daily duty",
+        "description": "Complete {0} stages in any mode",
+        "skipPrice": 2,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 20
+            },
+            {
+                "type": "Coin",
+                "value": 2000
+            }
+        ]
+    },
+    {
+        "type": "COMPLETE_STAGE_WITH_3_STARS",
+        "value": 2,
+        "title": "Perfectionist",
+        "description": "Complete {0} stages with 3 stars",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 5
+            },
+            {
+                "type": "Exp",
+                "value": 180
+            }
+        ]
+    },
+    {
+        "type": "USE_BOOSTER_DAMAGE",
+        "value": 3,
+        "title": "Strong man",
+        "description": "Use booster Biscep Steroid and complete stage {0} times",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 5
+            },
+            {
+                "type": "Exp",
+                "value": 180
+            }
+        ]
+    },
+    {
+        "type": "USE_BOOSTER_SPEED",
+        "value": 3,
+        "title": "It's always a race",
+        "description": "Use booster Bolt Pill and complete stage {0} times",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 2
+            },
+            {
+                "type": "Exp",
+                "value": 60
+            }
+        ]
+    },
+    {
+        "type": "USE_BOOSTER_HP",
+        "value": 3,
+        "title": "Saitama up!",
+        "description": "Use booster HP and complete stage {0} times",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 5
+            },
+            {
+                "type": "Exp",
+                "value": 180
+            }
+        ]
+    },
+    {
+        "type": "USE_BOOSTER_CRITICAL",
+        "value": 3,
+        "title": "Bullseye",
+        "description": "Use booster Critical and complete stage {0} times",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 5
+            },
+            {
+                "type": "Exp",
+                "value": 180
+            }
+        ]
+    },
+    {
+        "type": "USE_BOOSTER_COIN_MAGNET",
+        "value": 3,
+        "title": "Cha-ching",
+        "description": "Use booster Fortune Magnet and complete stage {0} times",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Coin",
+                "value": 500
+            },
+            {
+                "type": "Exp",
+                "value": 50
+            }
+        ]
+    },
+    {
+        "type": "BUY_BOOSTER_DAMAGE",
+        "value": 1,
+        "title": "One-punch man",
+        "description": "Buy booster Biscep Steroid {0} time",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 1
+            },
+            {
+                "type": "Exp",
+                "value": 36
+            }
+        ]
+    },
+    {
+        "type": "BUY_BOOSTER_HP",
+        "value": 1,
+        "title": "Arnold-up",
+        "description": "Buy booster HP {0} time",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 1
+            },
+            {
+                "type": "Exp",
+                "value": 36
+            }
+        ]
+    },
+    {
+        "type": "BUY_BOOSTER_CRITICAL",
+        "value": 1,
+        "title": "Kame Kame Ha",
+        "description": "Buy booster Critical {0} time",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 1
+            },
+            {
+                "type": "Exp",
+                "value": 36
+            }
+        ]
+    },
+    {
+        "type": "BUY_BOOSTER_COIN_MAGNET",
+        "value": 1,
+        "title": "Fortune incoming",
+        "description": "Buy booster Fortune Magnet {0} time",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 1
+            },
+            {
+                "type": "Exp",
+                "value": 12
+            }
+        ]
+    },
+    {
+        "type": "BUY_BOOSTER_SPEED",
+        "value": 1,
+        "title": "The Flash",
+        "description": "Buy booster Bolt Pill {0} time",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 1
+            },
+            {
+                "type": "Exp",
+                "value": 12
+            }
+        ]
+    },
+    {
+        "type": "SHARE_FACEBOOK",
+        "value": 1,
+        "title": "Sharing is caring",
+        "description": "Share game to Facebook {0} time",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 1
+            },
+            {
+                "type": "Exp",
+                "value": 50
+            }
+        ]
+    },
+    {
+        "type": "VIEW_ADS_X2_REWARD",
+        "value": 1,
+        "title": "Thanks for sharing",
+        "description": "View ads x2 rewards endgame {0} time",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 20
+            },
+            {
+                "type": "Coin",
+                "value": 2000
+            }
+        ]
+    },
+    {
+        "type": "GET_FREE_COIN",
+        "value": 3,
+        "title": "F2P",
+        "description": "Get free gifts {0} times",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 20
+            },
+            {
+                "type": "Coin",
+                "value": 2000
+            }
+        ]
+    },
+    {
+        "type": "KILL_FINAL_BOSS",
+        "value": 1,
+        "title": "Boss hunter",
+        "description": "Kill final boss {0} time",
+        "skipPrice": 1,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 3
+            },
+            {
+                "type": "Exp",
+                "value": 120
+            }
+        ]
+    },
+    {
+        "type": "GET_CRITICAL_HIT",
+        "value": 50,
+        "title": "50 Heads",
+        "description": "Get {0} critical hits",
+        "skipPrice": 3,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 2
+            },
+            {
+                "type": "Exp",
+                "value": 60
+            }
+        ]
+    },
+    {
+        "type": "BUY_AMMO",
+        "value": 1,
+        "title": "Stock up",
+        "description": "Buy full ammo {0} time",
+        "skipPrice": 3,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 1
+            },
+            {
+                "type": "Exp",
+                "value": 12
+            }
+        ]
+    },
+    {
+        "type": "BUY_GRENADE",
+        "value": 5,
+        "title": "Some safety explosives",
+        "description": "Buy grenade {0} times",
+        "skipPrice": 3,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 2
+            },
+            {
+                "type": "Exp",
+                "value": 12
+            }
+        ]
+    },
+    {
+        "type": "PLAY_TOURNAMENT",
+        "value": 1,
+        "title": "Enjoying Tournament",
+        "description": "Play tournament {0} time",
+        "skipPrice": 3,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 20
+            },
+            {
+                "type": "Coin",
+                "value": 2000
+            }
+        ]
+    },
+    {
+        "type": "PASS_SURVIVAL_WAVE_5",
+        "value": 1,
+        "title": "Master of tournament",
+        "description": "Pass survival wave 5 in Tournament Mode",
+        "skipPrice": 3,
+        "rewards": [
+            {
+                "type": "Coin",
+                "value": 1000
+            },
+            {
+                "type": "Exp",
+                "value": 500
+            }
+        ]
+    },
+    {
+        "type": "USE_BOOSTER",
+        "value": 3,
+        "title": "Booster Master",
+        "description": "Use booster for battles and win {0} times",
+        "skipPrice": 3,
+        "rewards": [
+            {
+                "type": "Gem",
+                "value": 15
+            },
+            {
+                "type": "Coin",
+                "value": 1000
+            }
+        ]
+    }
+]

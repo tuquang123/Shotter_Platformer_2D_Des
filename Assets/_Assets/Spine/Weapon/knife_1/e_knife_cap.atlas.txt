@@ -1,0 +1,13 @@
+
+e_knife_cap.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knife/dao
+  rotate: false
+  xy: 1, 49
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1

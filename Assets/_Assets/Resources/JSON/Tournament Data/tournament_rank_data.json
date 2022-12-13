@@ -1,0 +1,122 @@
+[
+    {
+        "rankIndex": 0,
+        "rankName": "DUCKY",
+        "score": 0,
+        "rewards": [ ]
+    },
+    {
+        "rankIndex": 1,
+        "rankName": "BRONZE",
+        "score": 2000,
+        "rewards": [
+            {
+                "type": "Medal",
+                "value": 100
+            },
+            {
+                "type": "Gem",
+                "value": 50
+            },
+            {
+                "type": "Coin",
+                "value": 5000
+            }
+        ]
+    },
+    {
+        "rankIndex": 2,
+        "rankName": "SILVER",
+        "score": 5000,
+        "rewards": [
+            {
+                "type": "Medal",
+                "value": 250
+            },
+            {
+                "type": "Gem",
+                "value": 75
+            },
+            {
+                "type": "Coin",
+                "value": 7500
+            }
+        ]
+    },
+    {
+        "rankIndex": 3,
+        "rankName": "GOLD",
+        "score": 10000,
+        "rewards": [
+            {
+                "type": "Medal",
+                "value": 350
+            },
+            {
+                "type": "Gem",
+                "value": 100
+            },
+            {
+                "type": "Coin",
+                "value": 10000
+            }
+        ]
+    },
+    {
+        "rankIndex": 4,
+        "rankName": "PLATINUM",
+        "score": 20000,
+        "rewards": [
+            {
+                "type": "Medal",
+                "value": 550
+            },
+            {
+                "type": "Gem",
+                "value": 150
+            },
+            {
+                "type": "Coin",
+                "value": 15000
+            }
+        ]
+    },
+    {
+        "rankIndex": 5,
+        "rankName": "DIAMOND",
+        "score": 50000,
+        "rewards": [
+            {
+                "type": "Medal",
+                "value": 750
+            },
+            {
+                "type": "Gem",
+                "value": 200
+            },
+            {
+                "type": "Coin",
+                "value": 20000
+            }
+        ]
+    },
+    {
+        "rankIndex": 6,
+        "rankName": "LEGEND",
+        "score": 100000,
+        "rewards": [
+            {
+                "type": "Medal",
+                "value": 1000
+            },
+            {
+                "type": "Gem",
+                "value": 300
+            },
+            {
+                "type": "Coin",
+                "value": 30000
+            }
+        ]
+    }
+]

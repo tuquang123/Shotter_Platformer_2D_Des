@@ -1,0 +1,84 @@
+[
+    [
+        {
+            "type": "Coin",
+            "value": 2000
+        },
+        {
+            "type": "BoosterCoinMagnet",
+            "value": 3
+        }
+    ],
+    [
+        {
+            "type": "Gem",
+            "value": 20
+        },
+        {
+            "type": "Coin",
+            "value": 3000
+        },
+        {
+            "type": "BoosterSpeed",
+            "value": 2
+        }
+    ],
+    [
+        {
+            "type": "Gem",
+            "value": 25
+        },
+        {
+            "type": "Coin",
+            "value": 4000
+        },
+        {
+            "type": "GrenadeF1",
+            "value": 2
+        },
+        {
+            "type": "BoosterCritical",
+            "value": 2
+        }
+    ],
+    [
+        {
+            "type": "Gem",
+            "value": 30
+        },
+        {
+            "type": "Coin",
+            "value": 5000
+        },
+        {
+            "type": "GrenadeF1",
+            "value": 3
+        },
+        {
+            "type": "BoosterDamage",
+            "value": 2
+        }
+    ],
+    [
+        {
+            "type": "Gem",
+            "value": 50
+        },
+        {
+            "type": "Coin",
+            "value": 10000
+        },
+        {
+            "type": "GrenadeF1",
+            "value": 5
+        },
+        {
+            "type": "BoosterHp",
+            "value": 1
+        },
+        {
+            "type": "TournamentTicket",
+            "value": 1
+        }
+    ]
+]

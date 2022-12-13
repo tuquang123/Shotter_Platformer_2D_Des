@@ -1,0 +1,195 @@
+
+boss_map3_1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 216, 90
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+canh1
+  rotate: false
+  xy: 315, 1
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+canh2
+  rotate: false
+  xy: 377, 1
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+day
+  rotate: false
+  xy: 615, 46
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+den1
+  rotate: false
+  xy: 990, 201
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+den2
+  rotate: false
+  xy: 667, 29
+  size: 38, 83
+  orig: 38, 83
+  offset: 0, 0
+  index: -1
+enegy_ball
+  rotate: false
+  xy: 549, 113
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+heart1
+  rotate: false
+  xy: 553, 1
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+heart2
+  rotate: false
+  xy: 386, 52
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+longmay1
+  rotate: false
+  xy: 990, 182
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+longmay2
+  rotate: false
+  xy: 56, 10
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 823, 158
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: false
+  xy: 1, 5
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+mieng2
+  rotate: false
+  xy: 315, 52
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+mieng3
+  rotate: false
+  xy: 823, 136
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+mui
+  rotate: false
+  xy: 883, 138
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+phukien
+  rotate: false
+  xy: 216, 1
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 692, 125
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 1, 29
+  size: 214, 226
+  orig: 214, 226
+  offset: 0, 0
+  index: -1
+than2
+  rotate: false
+  xy: 216, 51
+  size: 98, 38
+  orig: 98, 38
+  offset: 0, 0
+  index: -1
+tia_dien1
+  rotate: false
+  xy: 920, 169
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+tia_dien2
+  rotate: false
+  xy: 445, 18
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+tia_dien3
+  rotate: false
+  xy: 507, 18
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+tia_dien4
+  rotate: false
+  xy: 553, 40
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+toc1
+  rotate: false
+  xy: 256, 6
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: false
+  xy: 281, 10
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 382, 103
+  size: 166, 152
+  orig: 166, 152
+  offset: 0, 0
+  index: -1

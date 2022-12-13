@@ -1,0 +1,634 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sevenapp.metalblackops"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="16"
+9-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml
+11
+12    <supports-screens
+12-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:3:106-134
+18
+19    <uses-permission android:name="com.sevenapp.metalblackops.permission.C2D_MESSAGE" />
+19-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:4:3-87
+19-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:4:20-84
+20    <!--
+21  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+23    -->
+24    <permission
+24-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:9:3-118
+25        android:name="com.sevenapp.metalblackops.permission.C2D_MESSAGE"
+25-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:9:15-79
+26        android:protectionLevel="signature" />
+26-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:9:80-115
+27
+28    <uses-feature android:glEsVersion="0x00020000" />
+28-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:62:3-52
+28-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:62:17-49
+29    <uses-feature
+29-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:63:3-83
+30        android:name="android.hardware.vulkan"
+30-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:63:17-55
+31        android:required="false" />
+31-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:63:56-80
+32
+33    <uses-permission android:name="android.permission.INTERNET" />
+33-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:64:3-65
+33-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:64:20-62
+34
+35    <uses-feature
+35-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:65:3-88
+36        android:name="android.hardware.touchscreen"
+36-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:65:17-60
+37        android:required="false" />
+37-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:65:61-85
+38    <uses-feature
+38-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:66:3-99
+39        android:name="android.hardware.touchscreen.multitouch"
+39-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:66:17-71
+40        android:required="false" />
+40-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:66:72-96
+41    <uses-feature
+41-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:67:3-108
+42        android:name="android.hardware.touchscreen.multitouch.distinct"
+42-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:67:17-80
+43        android:required="false" />
+43-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:67:81-105
+44
+45    <uses-permission android:name="com.android.vending.BILLING" /> <!-- Indicates use of Android's VR-mode, available only on Android N+ -->
+45-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:12:5-67
+45-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:12:22-64
+46    <uses-feature
+46-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:14:5-16:36
+47        android:name="android.software.vr.mode"
+47-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:15:9-48
+48        android:required="false" /> <!-- Indicates use of VR features that are available only on official "VR-ready" devices -->
+48-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:16:9-33
+49    <uses-feature
+49-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:18:5-20:36
+50        android:name="android.software.vr.high_performance"
+50-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:19:9-60
+51        android:required="false" />
+51-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:20:9-33
+52
+53    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required by older versions of Google Play services to create GCM registration tokens -->
+53-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:24:5-79
+53-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:24:22-76
+54    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+54-->[:com.google.android.gms.play-services-gcm-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/b5f872bcd388410084cdf518cc4ec2a4/com.google.android.gms.play-services-gcm-17.0.0/AndroidManifest.xml:23:5-82
+54-->[:com.google.android.gms.play-services-gcm-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/b5f872bcd388410084cdf518cc4ec2a4/com.google.android.gms.play-services-gcm-17.0.0/AndroidManifest.xml:23:22-79
+55    <uses-permission android:name="android.permission.WAKE_LOCK" />
+55-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:25:5-68
+55-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:25:22-65
+56    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+56-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:26:5-110
+56-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:26:22-107
+57
+58    <application
+58-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:10:3-61:17
+59        android:allowBackup="true"
+59-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:22:18-44
+60        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+60-->[:androidx.core.core-1.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/AndroidManifest.xml:22:18-86
+61        android:debuggable="true"
+62        android:icon="@mipmap/app_icon"
+62-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:10:58-89
+63        android:isGame="true"
+63-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:10:123-144
+64        android:label="@string/app_name"
+64-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:10:90-122
+65        android:theme="@style/UnityThemeSelector" >
+65-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:10:16-57
+66
+67        <!--
+68         The MessagingUnityPlayerActivity is a class that extends
+69         UnityPlayerActivity to work around a known issue when receiving
+70         notification data payloads in the background.
+71        -->
+72        <!-- com.unity3d.player.UnityPlayerNativeActivity -->
+73        <activity
+73-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:15:5-31:16
+74            android:name="com.google.firebase.MessagingUnityPlayerActivity"
+74-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:15:15-78
+75            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+75-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:15:182-363
+76            android:hardwareAccelerated="false"
+76-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:15:364-399
+77            android:label="@string/app_name"
+77-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:15:79-111
+78            android:launchMode="singleTask"
+78-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:15:150-181
+79            android:screenOrientation="landscape" >
+79-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:15:112-149
+80            <intent-filter>
+80-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:16:7-20:23
+81                <action android:name="android.intent.action.MAIN" />
+81-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:17:9-61
+81-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:17:17-58
+82
+83                <category android:name="android.intent.category.LAUNCHER" />
+83-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:18:9-69
+83-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:18:19-66
+84                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+84-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:19:9-78
+84-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:19:19-75
+85            </intent-filter>
+86
+87            <meta-data
+87-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:21:7-82
+88                android:name="unityplayer.UnityActivity"
+88-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:21:18-58
+89                android:value="true" />
+89-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:21:59-79
+90            <meta-data
+90-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:22:7-96
+91                android:name="unityplayer.ForwardNativeEventsToDalvik"
+91-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:22:18-72
+92                android:value="true" />
+92-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:22:73-93
+93            <!-- <meta-data android:name="unityplayer.SkipPermissionsDialog" android:value="true" /> -->
+94            <intent-filter>
+94-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:24:7-29:23
+95                <action android:name="android.intent.action.VIEW" />
+95-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:25:9-61
+95-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:25:17-58
+96
+97                <data android:scheme="http" />
+97-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:26:9-39
+97-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:26:15-36
+98
+99                <category android:name="android.intent.category.DEFAULT" />
+99-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:27:9-68
+99-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:27:19-65
+100                <category android:name="android.intent.category.BROWSABLE" />
+100-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:28:9-70
+100-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:28:19-67
+101            </intent-filter>
+102
+103            <meta-data
+103-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:30:7-78
+104                android:name="android.notch_support"
+104-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:30:18-54
+105                android:value="true" />
+105-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:30:55-75
+106        </activity>
+107        <!--
+108    <activity android:name="com.unity3d.player.UnityPlayerActivity" android:launchMode="singleTop" android:label="@string/app_name" android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen" android:screenOrientation="landscape">
+109      <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+110    </activity>
+111        -->
+112        <receiver
+112-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:37:5-41:16
+113            android:name="com.google.android.gms.gcm.GcmReceiver"
+113-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:37:15-68
+114            android:exported="true"
+114-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:37:69-92
+115            android:permission="com.google.android.c2dm.permission.SEND" >
+115-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:37:93-153
+116            <intent-filter>
+116-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:38:7-40:23
+117                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+117-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:39:9-73
+117-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:39:17-70
+118            </intent-filter>
+119        </receiver>
+120        <!-- FACEBOOK -->
+121        <activity
+121-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:43:5-98
+122            android:name="com.facebook.unity.FBUnityAppLinkActivity"
+122-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:43:15-71
+123            android:exported="true" />
+123-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:43:72-95
+124        <activity
+124-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:44:5-301
+125            android:name="com.facebook.unity.FBUnityLoginActivity"
+125-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:44:15-69
+126            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+126-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:44:70-227
+127            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+127-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:44:228-298
+128        <activity
+128-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:45:5-303
+129            android:name="com.facebook.unity.FBUnityDialogsActivity"
+129-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:45:15-71
+130            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+130-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:45:72-229
+131            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+131-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:45:230-300
+132        <activity
+132-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:46:5-102
+133            android:name="com.facebook.unity.FBUnityDeepLinkingActivity"
+133-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:46:15-75
+134            android:exported="true" />
+134-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:46:76-99
+135        <activity android:name="com.facebook.unity.FBUnityGameRequestActivity" />
+135-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:47:5-78
+135-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:47:15-75
+136        <activity android:name="com.facebook.unity.FBUnityCreateGameGroupActivity" />
+136-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:48:5-82
+136-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:48:15-79
+137        <activity android:name="com.facebook.unity.FBUnityJoinGameGroupActivity" />
+137-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:49:5-80
+137-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:49:15-77
+138        <activity android:name="com.facebook.unity.AppInviteDialogActivity" />
+138-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:50:5-75
+138-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:50:15-72
+139
+140        <meta-data
+140-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:51:5-98
+141            android:name="com.facebook.sdk.ApplicationId"
+141-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:51:16-61
+142            android:value="fb462634074612186" />
+142-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:51:62-95
+143
+144        <provider
+144-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:52:5-171
+145            android:name="com.facebook.FacebookContentProvider"
+145-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:52:15-66
+146            android:authorities="com.facebook.app.FacebookContentProvider462634074612186"
+146-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:52:67-144
+147            android:exported="true" />
+147-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:52:145-168
+148        <!-- END FACEBOOK -->
+149        <!-- FIREBASE MESSAGING -->
+150        <service
+150-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:55:5-111
+151            android:name="com.google.firebase.messaging.MessageForwardingService"
+151-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:55:14-83
+152            android:exported="false" />
+152-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:55:84-108
+153
+154        <meta-data
+154-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:56:5-142
+155            android:name="com.google.firebase.messaging.default_notification_icon"
+155-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:56:16-86
+156            android:resource="@drawable/ic_stat_ic_notification" />
+156-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:56:87-139
+157        <meta-data
+157-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:57:5-101
+158            android:name="unity.build-id"
+158-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:57:16-45
+159            android:value="80d3f7f7-c715-4847-ad78-fd708a23a1bb" />
+159-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:57:46-98
+160        <meta-data
+160-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:58:5-69
+161            android:name="unity.splash-mode"
+161-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:58:16-48
+162            android:value="1" />
+162-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:58:49-66
+163        <meta-data
+163-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:59:5-74
+164            android:name="unity.splash-enable"
+164-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:59:16-50
+165            android:value="True" />
+165-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:59:51-71
+166        <meta-data
+166-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:60:5-81
+167            android:name="notch.config"
+167-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:60:16-43
+168            android:value="portrait|landscape" />
+168-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:60:44-78
+169
+170        <activity
+170-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:23:9-26:86
+171            android:name="com.unity.purchasing.googleplay.PurchaseActivity"
+171-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:24:13-76
+172            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+172-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:25:13-170
+173            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+173-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:26:13-83
+174        <activity
+174-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:27:9-37:20
+175            android:name="com.unity.purchasing.googleplay.VRPurchaseActivity"
+175-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:28:13-78
+176            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+176-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:29:13-170
+177            android:enableVrMode="com.google.vr.vrcore/com.google.vr.vrcore.common.VrCoreListenerService"
+177-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:30:13-106
+178            android:theme="@style/VrActivityTheme" >
+178-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:31:13-51
+179            <intent-filter>
+179-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:32:13-36:29
+180                <action android:name="com.google.vr.vrcore.ACTION_NONE" />
+180-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:33:17-75
+180-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:33:25-72
+181
+182                <category android:name="com.google.intent.category.DAYDREAM" />
+182-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:35:17-80
+182-->[:GooglePlay:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c76b5ea9f432c8401011930b49fbc75e/GooglePlay/AndroidManifest.xml:35:27-77
+183            </intent-filter>
+184        </activity>
+185
+186        <meta-data
+186-->[:android.arch.lifecycle.runtime-1.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+187            android:name="android.arch.lifecycle.VERSION"
+187-->[:android.arch.lifecycle.runtime-1.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:26:13-58
+188            android:value="27.0.0-SNAPSHOT" />
+188-->[:android.arch.lifecycle.runtime-1.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/d0f6449185399ce77e6ff49656abaac3/android.arch.lifecycle.runtime-1.0.0/AndroidManifest.xml:27:13-44
+189        <meta-data
+189-->[:com.android.support.customtabs-26.1.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/417b126164fe789b7a5a08824253be1c/com.android.support.customtabs-26.1.0/AndroidManifest.xml:23:9-25:38
+190            android:name="android.support.VERSION"
+190-->[:com.android.support.customtabs-26.1.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/417b126164fe789b7a5a08824253be1c/com.android.support.customtabs-26.1.0/AndroidManifest.xml:24:13-51
+191            android:value="26.1.0" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+191-->[:com.android.support.customtabs-26.1.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/417b126164fe789b7a5a08824253be1c/com.android.support.customtabs-26.1.0/AndroidManifest.xml:25:13-35
+192        <activity
+192-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:29:9-33:64
+193            android:name="com.google.android.gms.ads.AdActivity"
+193-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:30:13-65
+194            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+194-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:31:13-122
+195            android:exported="false"
+195-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:32:13-37
+196            android:theme="@android:style/Theme.Translucent" />
+196-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:33:13-61
+197
+198        <provider
+198-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:35:9-39:39
+199            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+199-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:36:13-76
+200            android:authorities="com.sevenapp.metalblackops.mobileadsinitprovider"
+200-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:37:13-83
+201            android:exported="false"
+201-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:38:13-37
+202            android:initOrder="100" />
+202-->[:com.google.android.gms.play-services-ads-lite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/592a6b4cb87e648284a9eec3fd760894/com.google.android.gms.play-services-ads-lite-17.0.0/AndroidManifest.xml:39:13-36
+203
+204        <activity
+204-->[:com.google.android.gms.play-services-appinvite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e7525bcfc93047138419105c7c325e76/com.google.android.gms.play-services-appinvite-17.0.0/AndroidManifest.xml:25:9-34:20
+205            android:name="com.google.android.gms.appinvite.PreviewActivity"
+205-->[:com.google.android.gms.play-services-appinvite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e7525bcfc93047138419105c7c325e76/com.google.android.gms.play-services-appinvite-17.0.0/AndroidManifest.xml:26:13-76
+206            android:exported="true"
+206-->[:com.google.android.gms.play-services-appinvite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e7525bcfc93047138419105c7c325e76/com.google.android.gms.play-services-appinvite-17.0.0/AndroidManifest.xml:27:13-36
+207            android:theme="@style/Theme.AppInvite.Preview" >
+207-->[:com.google.android.gms.play-services-appinvite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e7525bcfc93047138419105c7c325e76/com.google.android.gms.play-services-appinvite-17.0.0/AndroidManifest.xml:28:13-59
+208            <intent-filter>
+208-->[:com.google.android.gms.play-services-appinvite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e7525bcfc93047138419105c7c325e76/com.google.android.gms.play-services-appinvite-17.0.0/AndroidManifest.xml:29:13-33:29
+209                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+209-->[:com.google.android.gms.play-services-appinvite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e7525bcfc93047138419105c7c325e76/com.google.android.gms.play-services-appinvite-17.0.0/AndroidManifest.xml:30:17-90
+209-->[:com.google.android.gms.play-services-appinvite-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e7525bcfc93047138419105c7c325e76/com.google.android.gms.play-services-appinvite-17.0.0/AndroidManifest.xml:30:25-87
+210
+211                <category android:name="android.intent.category.DEFAULT" />
+211-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:27:9-68
+211-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:27:19-65
+212            </intent-filter>
+213        </activity>
+214        <activity
+214-->[:com.google.android.gms.play-services-base-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+215            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+215-->[:com.google.android.gms.play-services-base-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+216            android:exported="false"
+216-->[:com.google.android.gms.play-services-base-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+217            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+217-->[:com.google.android.gms.play-services-base-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+218
+219        <meta-data
+219-->[:com.google.android.gms.play-services-basement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/8332131f6675301b4c0f7ae3fe17e1e6/com.google.android.gms.play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+220            android:name="com.google.android.gms.version"
+220-->[:com.google.android.gms.play-services-basement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/8332131f6675301b4c0f7ae3fe17e1e6/com.google.android.gms.play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+221            android:value="@integer/google_play_services_version" />
+221-->[:com.google.android.gms.play-services-basement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/8332131f6675301b4c0f7ae3fe17e1e6/com.google.android.gms.play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+222
+223        <receiver
+223-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:29:9-33:20
+224            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+224-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:30:13-85
+225            android:enabled="true"
+225-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:31:13-35
+226            android:exported="false" >
+226-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:32:13-37
+227        </receiver>
+228        <receiver
+228-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:34:9-42:20
+229            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+229-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:35:13-100
+230            android:enabled="true"
+230-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:36:13-35
+231            android:exported="true"
+231-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:37:13-36
+232            android:permission="android.permission.INSTALL_PACKAGES" >
+232-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:38:13-69
+233            <intent-filter>
+233-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:39:13-41:29
+234                <action android:name="com.android.vending.INSTALL_REFERRER" />
+234-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:40:17-79
+234-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:40:25-76
+235            </intent-filter>
+236        </receiver>
+237
+238        <service
+238-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:44:9-47:40
+239            android:name="com.google.android.gms.measurement.AppMeasurementService"
+239-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:45:13-84
+240            android:enabled="true"
+240-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:46:13-35
+241            android:exported="false" />
+241-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:47:13-37
+242        <service
+242-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:48:9-52:72
+243            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+243-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:49:13-87
+244            android:enabled="true"
+244-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:50:13-35
+245            android:exported="false"
+245-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:51:13-37
+246            android:permission="android.permission.BIND_JOB_SERVICE" />
+246-->[:com.google.android.gms.play-services-measurement-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/5b1dc9f733330360c290619e0a278602/com.google.android.gms.play-services-measurement-17.0.0/AndroidManifest.xml:52:13-69
+247        <service
+247-->[:com.google.android.gms.play-services-measurement-api-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/48ce64cfa871b4ced42b9f782e2bb4c3/com.google.android.gms.play-services-measurement-api-17.0.0/AndroidManifest.xml:27:9-33:19
+248            android:name="com.google.firebase.components.ComponentDiscoveryService"
+248-->[:com.google.android.gms.play-services-measurement-api-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/48ce64cfa871b4ced42b9f782e2bb4c3/com.google.android.gms.play-services-measurement-api-17.0.0/AndroidManifest.xml:28:13-84
+249            android:exported="false" >
+249-->[:com.google.android.gms.play-services-measurement-api-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/48ce64cfa871b4ced42b9f782e2bb4c3/com.google.android.gms.play-services-measurement-api-17.0.0/AndroidManifest.xml:29:13-37
+250            <meta-data
+250-->[:com.google.android.gms.play-services-measurement-api-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/48ce64cfa871b4ced42b9f782e2bb4c3/com.google.android.gms.play-services-measurement-api-17.0.0/AndroidManifest.xml:30:13-32:85
+251                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+251-->[:com.google.android.gms.play-services-measurement-api-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/48ce64cfa871b4ced42b9f782e2bb4c3/com.google.android.gms.play-services-measurement-api-17.0.0/AndroidManifest.xml:31:17-139
+252                android:value="com.google.firebase.components.ComponentRegistrar" />
+252-->[:com.google.android.gms.play-services-measurement-api-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/48ce64cfa871b4ced42b9f782e2bb4c3/com.google.android.gms.play-services-measurement-api-17.0.0/AndroidManifest.xml:32:17-82
+253            <meta-data
+253-->[:com.google.firebase.firebase-auth-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/29ba97a8b20f463beeba4f661b5ebdfe/com.google.firebase.firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
+254                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+254-->[:com.google.firebase.firebase-auth-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/29ba97a8b20f463beeba4f661b5ebdfe/com.google.firebase.firebase-auth-17.0.0/AndroidManifest.xml:37:17-109
+255                android:value="com.google.firebase.components.ComponentRegistrar" />
+255-->[:com.google.firebase.firebase-auth-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/29ba97a8b20f463beeba4f661b5ebdfe/com.google.firebase.firebase-auth-17.0.0/AndroidManifest.xml:38:17-82
+256            <meta-data
+256-->[:com.google.firebase.firebase-dynamic-links-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/2cc7c7a232104bf6ce502333cf1a6d3b/com.google.firebase.firebase-dynamic-links-17.0.0/AndroidManifest.xml:9:13-11:85
+257                android:name="com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar"
+257-->[:com.google.firebase.firebase-dynamic-links-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/2cc7c7a232104bf6ce502333cf1a6d3b/com.google.firebase.firebase-dynamic-links-17.0.0/AndroidManifest.xml:10:17-133
+258                android:value="com.google.firebase.components.ComponentRegistrar" />
+258-->[:com.google.firebase.firebase-dynamic-links-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/2cc7c7a232104bf6ce502333cf1a6d3b/com.google.firebase.firebase-dynamic-links-17.0.0/AndroidManifest.xml:11:17-82
+259            <meta-data
+259-->[:com.google.firebase.firebase-iid-19.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/f06666015ba3b0bf83f98237aaeb9a1c/com.google.firebase.firebase-iid-19.0.0/AndroidManifest.xml:32:13-34:85
+260                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+260-->[:com.google.firebase.firebase-iid-19.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/f06666015ba3b0bf83f98237aaeb9a1c/com.google.firebase.firebase-iid-19.0.0/AndroidManifest.xml:33:17-96
+261                android:value="com.google.firebase.components.ComponentRegistrar" />
+261-->[:com.google.firebase.firebase-iid-19.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/f06666015ba3b0bf83f98237aaeb9a1c/com.google.firebase.firebase-iid-19.0.0/AndroidManifest.xml:34:17-82
+262        </service>
+263
+264        <activity
+264-->[:com.google.firebase.firebase-auth-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/29ba97a8b20f463beeba4f661b5ebdfe/com.google.firebase.firebase-auth-17.0.0/AndroidManifest.xml:24:9-31:50
+265            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+265-->[:com.google.firebase.firebase-auth-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/29ba97a8b20f463beeba4f661b5ebdfe/com.google.firebase.firebase-auth-17.0.0/AndroidManifest.xml:25:13-85
+266            android:excludeFromRecents="true"
+266-->[:com.google.firebase.firebase-auth-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/29ba97a8b20f463beeba4f661b5ebdfe/com.google.firebase.firebase-auth-17.0.0/AndroidManifest.xml:26:13-46
+267            android:exported="true"
+267-->[:com.google.firebase.firebase-auth-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/29ba97a8b20f463beeba4f661b5ebdfe/com.google.firebase.firebase-auth-17.0.0/AndroidManifest.xml:27:13-36
+268            android:launchMode="singleTask"
+268-->[:com.google.firebase.firebase-auth-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/29ba97a8b20f463beeba4f661b5ebdfe/com.google.firebase.firebase-auth-17.0.0/AndroidManifest.xml:28:13-44
+269            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+269-->[:com.google.firebase.firebase-auth-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/29ba97a8b20f463beeba4f661b5ebdfe/com.google.firebase.firebase-auth-17.0.0/AndroidManifest.xml:29:13-102
+270            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+270-->[:com.google.firebase.firebase-auth-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/29ba97a8b20f463beeba4f661b5ebdfe/com.google.firebase.firebase-auth-17.0.0/AndroidManifest.xml:30:13-72
+271
+272        <provider
+272-->[:com.google.firebase.firebase-common-18.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/b930df5ee7b39c1231db9b265fdae738/com.google.firebase.firebase-common-18.0.0/AndroidManifest.xml:12:9-16:39
+273            android:name="com.google.firebase.provider.FirebaseInitProvider"
+273-->[:com.google.firebase.firebase-common-18.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/b930df5ee7b39c1231db9b265fdae738/com.google.firebase.firebase-common-18.0.0/AndroidManifest.xml:13:13-77
+274            android:authorities="com.sevenapp.metalblackops.firebaseinitprovider"
+274-->[:com.google.firebase.firebase-common-18.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/b930df5ee7b39c1231db9b265fdae738/com.google.firebase.firebase-common-18.0.0/AndroidManifest.xml:14:13-82
+275            android:exported="false"
+275-->[:com.google.firebase.firebase-common-18.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/b930df5ee7b39c1231db9b265fdae738/com.google.firebase.firebase-common-18.0.0/AndroidManifest.xml:15:13-37
+276            android:initOrder="100" />
+276-->[:com.google.firebase.firebase-common-18.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/b930df5ee7b39c1231db9b265fdae738/com.google.firebase.firebase-common-18.0.0/AndroidManifest.xml:16:13-36
+277
+278        <receiver
+278-->[:com.google.firebase.firebase-iid-19.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/f06666015ba3b0bf83f98237aaeb9a1c/com.google.firebase.firebase-iid-19.0.0/AndroidManifest.xml:37:9-44:20
+279            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+279-->[:com.google.firebase.firebase-iid-19.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/f06666015ba3b0bf83f98237aaeb9a1c/com.google.firebase.firebase-iid-19.0.0/AndroidManifest.xml:38:13-78
+280            android:exported="true"
+280-->[:com.google.firebase.firebase-iid-19.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/f06666015ba3b0bf83f98237aaeb9a1c/com.google.firebase.firebase-iid-19.0.0/AndroidManifest.xml:39:13-36
+281            android:permission="com.google.android.c2dm.permission.SEND" >
+281-->[:com.google.firebase.firebase-iid-19.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/f06666015ba3b0bf83f98237aaeb9a1c/com.google.firebase.firebase-iid-19.0.0/AndroidManifest.xml:40:13-73
+282            <intent-filter>
+282-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:38:7-40:23
+283                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+283-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:39:9-73
+283-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/AndroidManifest.xml:39:17-70
+284            </intent-filter>
+285        </receiver>
+286        <!--
+287             FirebaseMessagingService performs security checks at runtime,
+288             no need for explicit permissions despite exported="true"
+289        -->
+290        <service
+290-->[:com.google.firebase.firebase-messaging-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/AndroidManifest.xml:28:9-34:19
+291            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+291-->[:com.google.firebase.firebase-messaging-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/AndroidManifest.xml:29:13-82
+292            android:exported="true" >
+292-->[:com.google.firebase.firebase-messaging-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/AndroidManifest.xml:30:13-36
+293            <intent-filter android:priority="-500" >
+293-->[:com.google.firebase.firebase-messaging-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/AndroidManifest.xml:31:13-33:29
+293-->[:com.google.firebase.firebase-messaging-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/AndroidManifest.xml:31:28-51
+294                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+294-->[:com.google.firebase.firebase-messaging-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/AndroidManifest.xml:32:17-78
+294-->[:com.google.firebase.firebase-messaging-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/AndroidManifest.xml:32:25-75
+295            </intent-filter>
+296        </service>
+297        <service
+297-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:18:5-23:15
+298            android:name="com.google.firebase.messaging.cpp.ListenerService"
+298-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:18:14-78
+299            android:exported="false" >
+299-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:19:14-38
+300            <intent-filter>
+300-->[:com.google.firebase.firebase-messaging-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/AndroidManifest.xml:31:13-33:29
+301                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+301-->[:com.google.firebase.firebase-messaging-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/AndroidManifest.xml:32:17-78
+301-->[:com.google.firebase.firebase-messaging-17.0.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/9db3f62961de553d44dd9395e6e15484/com.google.firebase.firebase-messaging-17.0.0/AndroidManifest.xml:32:25-75
+302            </intent-filter>
+303        </service>
+304        <service
+304-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:25:5-30:15
+305            android:name="com.google.firebase.messaging.cpp.FcmInstanceIDListenerService"
+305-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:25:14-91
+306            android:exported="false" >
+306-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:26:14-38
+307            <intent-filter>
+307-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:27:7-29:23
+308                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+308-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:28:9-71
+308-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:28:17-69
+309            </intent-filter>
+310        </service>
+311        <service
+311-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:32:5-34:15
+312            android:name="com.google.firebase.messaging.cpp.RegistrationIntentService"
+312-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:32:14-88
+313            android:exported="false" >
+313-->[:com.google.firebase.firebase-messaging-unity-4.4.3:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/c208d471dc6955135b951d7383492742/com.google.firebase.firebase-messaging-unity-4.4.3/AndroidManifest.xml:33:14-38
+314        </service>
+315
+316        <activity
+316-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:15:9-19:74
+317            android:name="com.unity3d.ads.adunit.AdUnitActivity"
+317-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:16:13-65
+318            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+318-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:17:13-170
+319            android:hardwareAccelerated="true"
+319-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:18:13-47
+320            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+320-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:19:13-71
+321        <activity
+321-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:20:9-24:86
+322            android:name="com.unity3d.ads.adunit.AdUnitTransparentActivity"
+322-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:21:13-76
+323            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+323-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:22:13-170
+324            android:hardwareAccelerated="true"
+324-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:23:13-47
+325            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+325-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:24:13-83
+326        <activity
+326-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:25:9-29:86
+327            android:name="com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity"
+327-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:26:13-84
+328            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+328-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:27:13-170
+329            android:hardwareAccelerated="false"
+329-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:28:13-48
+330            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+330-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:29:13-83
+331        <activity
+331-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:30:9-34:74
+332            android:name="com.unity3d.ads.adunit.AdUnitSoftwareActivity"
+332-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:31:13-73
+333            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+333-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:32:13-170
+334            android:hardwareAccelerated="false"
+334-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:33:13-48
+335            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+335-->[:com.unity3d.ads.unity-ads-2.2.0:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/ea5bd575aae22ce88852648ade508388/com.unity3d.ads.unity-ads-2.2.0/AndroidManifest.xml:34:13-71
+336        <activity
+336-->[:facebook-android-sdk-4.13.2:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/AndroidManifest.xml:29:9-32:75
+337            android:name="com.facebook.FacebookActivity"
+337-->[:facebook-android-sdk-4.13.2:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/AndroidManifest.xml:30:13-57
+338            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+338-->[:facebook-android-sdk-4.13.2:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/AndroidManifest.xml:31:13-96
+339            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+339-->[:facebook-android-sdk-4.13.2:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/AndroidManifest.xml:32:13-72
+340        <activity
+340-->[:facebook-android-sdk-4.13.2:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/AndroidManifest.xml:33:9-36:20
+341            android:name="com.facebook.CustomTabActivity"
+341-->[:facebook-android-sdk-4.13.2:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/AndroidManifest.xml:34:13-58
+342            android:exported="true" >
+342-->[:facebook-android-sdk-4.13.2:] /Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/AndroidManifest.xml:35:13-36
+343        </activity>
+344    </application>
+345
+346</manifest>

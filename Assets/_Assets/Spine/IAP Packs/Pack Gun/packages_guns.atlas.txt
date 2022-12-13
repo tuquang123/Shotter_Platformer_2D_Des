@@ -1,0 +1,272 @@
+
+packages_guns.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Everybody favorite/%
+  rotate: false
+  xy: 1900, 1635
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+Everybody favorite/gold_1
+  rotate: false
+  xy: 586, 904
+  size: 403, 193
+  orig: 403, 193
+  offset: 0, 0
+  index: -1
+Everybody favorite/gun
+  rotate: false
+  xy: 1474, 1692
+  size: 567, 355
+  orig: 567, 355
+  offset: 0, 0
+  index: -1
+starter pack/gun
+  rotate: false
+  xy: 1474, 1692
+  size: 567, 355
+  orig: 567, 355
+  offset: 0, 0
+  index: -1
+Everybody favorite/text
+  rotate: false
+  xy: 1, 14
+  size: 405, 88
+  orig: 405, 88
+  offset: 0, 0
+  index: -1
+Everybody favorite/text_gun
+  rotate: false
+  xy: 1434, 1391
+  size: 231, 111
+  orig: 231, 111
+  offset: 0, 0
+  index: -1
+starter pack/text_gun
+  rotate: false
+  xy: 1434, 1391
+  size: 231, 111
+  orig: 231, 111
+  offset: 0, 0
+  index: -1
+dragons breath/gold_1
+  rotate: false
+  xy: 1, 103
+  size: 547, 266
+  orig: 547, 266
+  offset: 0, 0
+  index: -1
+dragons breath/gun
+  rotate: false
+  xy: 765, 1617
+  size: 708, 430
+  orig: 708, 430
+  offset: 0, 0
+  index: -1
+dragons breath/text
+  rotate: false
+  xy: 1029, 427
+  size: 295, 183
+  orig: 295, 183
+  offset: 0, 0
+  index: -1
+dragons breath/text_gun
+  rotate: false
+  xy: 1666, 1379
+  size: 213, 123
+  orig: 213, 123
+  offset: 0, 0
+  index: -1
+let there be fire/gold_1
+  rotate: false
+  xy: 1474, 1503
+  size: 425, 188
+  orig: 425, 188
+  offset: 0, 0
+  index: -1
+let there be fire/gun
+  rotate: false
+  xy: 1, 370
+  size: 609, 366
+  orig: 609, 366
+  offset: 0, 0
+  index: -1
+let there be fire/text
+  rotate: false
+  xy: 549, 67
+  size: 402, 111
+  orig: 402, 111
+  offset: 0, 0
+  index: -1
+let there be fire/text_gun
+  rotate: false
+  xy: 1029, 298
+  size: 290, 128
+  orig: 290, 128
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 717, 1098
+  size: 234, 505
+  orig: 234, 505
+  offset: 0, 0
+  index: -1
+shocking sale/gold_1
+  rotate: false
+  xy: 611, 359
+  size: 417, 188
+  orig: 417, 188
+  offset: 0, 0
+  index: -1
+shocking sale/gun
+  rotate: false
+  xy: 1, 737
+  size: 584, 441
+  orig: 584, 441
+  offset: 0, 0
+  index: -1
+shocking sale/text
+  rotate: false
+  xy: 1021, 611
+  size: 346, 153
+  orig: 346, 153
+  offset: 0, 0
+  index: -1
+shocking sale/text_gun
+  rotate: false
+  xy: 972, 177
+  size: 253, 120
+  orig: 253, 120
+  offset: 0, 0
+  index: -1
+snipping for dummies/%
+  rotate: false
+  xy: 407, 46
+  size: 132, 56
+  orig: 132, 56
+  offset: 0, 0
+  index: -1
+dragons breath/%
+  rotate: false
+  xy: 407, 46
+  size: 132, 56
+  orig: 132, 56
+  offset: 0, 0
+  index: -1
+shocking sale/%
+  rotate: false
+  xy: 407, 46
+  size: 132, 56
+  orig: 132, 56
+  offset: 0, 0
+  index: -1
+snipping for dummies/gold_1
+  rotate: false
+  xy: 990, 927
+  size: 403, 188
+  orig: 403, 188
+  offset: 0, 0
+  index: -1
+snipping for dummies/gun
+  rotate: false
+  xy: 1, 1604
+  size: 763, 443
+  orig: 763, 443
+  offset: 0, 0
+  index: -1
+snipping for dummies/text
+  rotate: false
+  xy: 549, 179
+  size: 422, 179
+  orig: 422, 179
+  offset: 0, 0
+  index: -1
+snipping for dummies/text_gun
+  rotate: false
+  xy: 586, 737
+  size: 361, 166
+  orig: 361, 166
+  offset: 0, 0
+  index: -1
+starter pack/%
+  rotate: false
+  xy: 1305, 1560
+  size: 134, 56
+  orig: 134, 56
+  offset: 0, 0
+  index: -1
+starter pack/booster
+  rotate: false
+  xy: 952, 1350
+  size: 352, 266
+  orig: 352, 266
+  offset: 0, 0
+  index: -1
+starter pack/gem_2
+  rotate: false
+  xy: 1226, 148
+  size: 207, 149
+  orig: 207, 149
+  offset: 0, 0
+  index: -1
+starter pack/gold_1
+  rotate: false
+  xy: 952, 1
+  size: 221, 175
+  orig: 221, 175
+  offset: 0, 0
+  index: -1
+starter pack/text
+  rotate: false
+  xy: 952, 1116
+  size: 349, 233
+  orig: 349, 233
+  offset: 0, 0
+  index: -1
+taser laser/%
+  rotate: false
+  xy: 1305, 1503
+  size: 133, 56
+  orig: 133, 56
+  offset: 0, 0
+  index: -1
+let there be fire/%
+  rotate: false
+  xy: 1305, 1503
+  size: 133, 56
+  orig: 133, 56
+  offset: 0, 0
+  index: -1
+taser laser/gold_1
+  rotate: false
+  xy: 611, 548
+  size: 409, 188
+  orig: 409, 188
+  offset: 0, 0
+  index: -1
+taser laser/gun
+  rotate: false
+  xy: 1, 1179
+  size: 715, 424
+  orig: 715, 424
+  offset: 0, 0
+  index: -1
+taser laser/text
+  rotate: false
+  xy: 990, 765
+  size: 380, 161
+  orig: 380, 161
+  offset: 0, 0
+  index: -1
+taser laser/text_gun
+  rotate: false
+  xy: 1174, 35
+  size: 241, 112
+  orig: 241, 112
+  offset: 0, 0
+  index: -1

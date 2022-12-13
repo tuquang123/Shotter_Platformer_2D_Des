@@ -1,0 +1,1394 @@
+[
+  {
+    "stageNameId": "1.1",
+    "map": 1,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 1000
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 1200
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 1500
+        },
+        {
+          "type": "Gem",
+          "value": 40
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 250
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 300
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 350
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "1.2",
+    "map": 1,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 1100
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 1320
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 1650
+        },
+        {
+          "type": "Gem",
+          "value": 40
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 275
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 330
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 385
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "1.3",
+    "map": 1,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 1200
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 1440
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 1800
+        },
+        {
+          "type": "Gem",
+          "value": 40
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 300
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 360
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 420
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "1.4",
+    "map": 1,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 1300
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 1560
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 1950
+        },
+        {
+          "type": "Gem",
+          "value": 40
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 325
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 390
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 455
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "1.5",
+    "map": 1,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 1400
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 1680
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 2100
+        },
+        {
+          "type": "Gem",
+          "value": 40
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 350
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 420
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 490
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "1.6",
+    "map": 1,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 1500
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 1800
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 2250
+        },
+        {
+          "type": "Gem",
+          "value": 40
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 375
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 450
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 525
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "1.7",
+    "map": 1,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 1600
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 1920
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 2400
+        },
+        {
+          "type": "Gem",
+          "value": 40
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 400
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 480
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 560
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "1.8",
+    "map": 1,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 1700
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 2040
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 2550
+        },
+        {
+          "type": "Gem",
+          "value": 40
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 425
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 510
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 595
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "2.1",
+    "map": 2,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 1800
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 2160
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 2700
+        },
+        {
+          "type": "Gem",
+          "value": 45
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 450
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 540
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 630
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "2.2",
+    "map": 2,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 1900
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 2280
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 2850
+        },
+        {
+          "type": "Gem",
+          "value": 45
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 475
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 570
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 665
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "2.3",
+    "map": 2,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 2000
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 2400
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 3000
+        },
+        {
+          "type": "Gem",
+          "value": 45
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 500
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 600
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 700
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "2.4",
+    "map": 2,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 2100
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 2520
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 3150
+        },
+        {
+          "type": "Gem",
+          "value": 45
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 525
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 630
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 735
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "2.5",
+    "map": 2,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 2200
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 2640
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 3300
+        },
+        {
+          "type": "Gem",
+          "value": 45
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 550
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 660
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 770
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "2.6",
+    "map": 2,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 2300
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 2760
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 3450
+        },
+        {
+          "type": "Gem",
+          "value": 45
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 575
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 690
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 805
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "2.7",
+    "map": 2,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 2400
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 2880
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 3600
+        },
+        {
+          "type": "Gem",
+          "value": 45
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 600
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 720
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 840
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "2.8",
+    "map": 2,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      315,
+      375,
+      435
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 2500
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 3000
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 3750
+        },
+        {
+          "type": "Gem",
+          "value": 45
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 315
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 375
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 435
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "3.1",
+    "map": 3,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 2600
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 3120
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 3900
+        },
+        {
+          "type": "Gem",
+          "value": 50
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 650
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 780
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 910
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "3.2",
+    "map": 3,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 2700
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 3240
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 4050
+        },
+        {
+          "type": "Gem",
+          "value": 50
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 675
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 810
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 945
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "3.3",
+    "map": 3,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 2800
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 3360
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 4200
+        },
+        {
+          "type": "Gem",
+          "value": 50
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 700
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 840
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 980
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "3.4",
+    "map": 3,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 2900
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 3480
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 4350
+        },
+        {
+          "type": "Gem",
+          "value": 50
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 725
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 870
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 1015
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "3.5",
+    "map": 3,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 3000
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 3600
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 4500
+        },
+        {
+          "type": "Gem",
+          "value": 50
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 750
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 900
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 1050
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "3.6",
+    "map": 3,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 3100
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 3720
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 4650
+        },
+        {
+          "type": "Gem",
+          "value": 50
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 775
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 930
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 1085
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "3.7",
+    "map": 3,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 3200
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 3840
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 4800
+        },
+        {
+          "type": "Gem",
+          "value": 50
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 800
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 960
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 1120
+        }
+      ]
+    }
+  },
+  {
+    "stageNameId": "3.8",
+    "map": 3,
+    "stamina": [
+      0,
+      0,
+      0
+    ],
+    "coinCompleteStage": [
+      0,
+      0,
+      0
+    ],
+    "firstTimeRewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 3300
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 3960
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 4950
+        },
+        {
+          "type": "Gem",
+          "value": 50
+        }
+      ]
+    },
+    "rewards": {
+      "Normal": [
+        {
+          "type": "Coin",
+          "value": 825
+        }
+      ],
+      "Hard": [
+        {
+          "type": "Coin",
+          "value": 990
+        }
+      ],
+      "Crazy": [
+        {
+          "type": "Coin",
+          "value": 1155
+        }
+      ]
+    }
+  }
+]

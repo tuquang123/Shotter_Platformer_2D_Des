@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1691",
+                        "endColumns": "100",
+                        "endOffsets": "1787"
+                    }
+                },
+                {
+                    "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,224,332,471,568,634,704,767,841,913,1005,1076,1147,1232,1338,1402,1474,1629",
+                        "endColumns": "168,107,138,96,65,69,62,73,71,91,70,70,84,105,63,71,154,61",
+                        "endOffsets": "219,327,466,563,629,699,762,836,908,1000,1071,1142,1227,1333,1397,1469,1624,1686"
+                    }
+                }
+            ]
+        }
+    ]
+}

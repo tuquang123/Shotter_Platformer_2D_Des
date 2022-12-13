@@ -1,0 +1,44 @@
+{
+    "0": {
+        "type": 0,
+        "boosterName": "HP PACK",
+        "description": "Restore 40% max HP",
+        "price": 2000,
+        "value": 100
+    },
+    "1": {
+        "type": 1,
+        "boosterName": "GRENADES",
+        "description": "Gain an extra F1 grenade",
+        "price": 500,
+        "value": 1
+    },
+    "2": {
+        "type": 2,
+        "boosterName": "BISCEP STEROID",
+        "description": "Gain 15% extra damage for your next battle",
+        "price": 1500,
+        "value": 15
+    },
+    "3": {
+        "type": 3,
+        "boosterName": "FORTUNE MAGNET",
+        "description": "Automatically collect coins",
+        "price": 150,
+        "value": 0
+    },
+    "4": {
+        "type": 4,
+        "boosterName": "BOLT PILL",
+        "description": "Gain 20% extra movement speed",
+        "price": 1000,
+        "value": 20
+    },
+    "5": {
+        "type": 5,
+        "boosterName": "CRITICAL BUFF",
+        "description": "Gain 10% extra critical rate",
+        "price": 1500,
+        "value": 10
+    }
+}

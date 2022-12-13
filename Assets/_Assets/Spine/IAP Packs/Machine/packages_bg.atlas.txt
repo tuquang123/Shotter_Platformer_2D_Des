@@ -1,0 +1,27 @@
+
+packages_bg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 216
+  size: 754, 148
+  orig: 754, 148
+  offset: 0, 0
+  index: -1
+bg_light
+  rotate: false
+  xy: 1, 365
+  size: 990, 612
+  orig: 990, 612
+  offset: 0, 0
+  index: -1
+bg_save
+  rotate: false
+  xy: 1, 1
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1

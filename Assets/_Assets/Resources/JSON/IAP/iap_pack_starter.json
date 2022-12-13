@@ -1,0 +1,34 @@
+[
+    {
+        "type": "GunBullpup",
+        "value": 1
+    },
+    {
+        "type": "Coin",
+        "value": 50000
+    },
+    {
+        "type": "Gem",
+        "value": 200
+    },
+    {
+        "type": "BoosterDamage",
+        "value": 5
+    },
+    {
+        "type": "BoosterCritical",
+        "value": 5
+    },
+    {
+        "type": "BoosterSpeed",
+        "value": 5
+    },
+    {
+        "type": "BoosterCoinMagnet",
+        "value": 5
+    },
+    {
+        "type": "BoosterHp",
+        "value": 5
+    }
+]

@@ -1,0 +1,20 @@
+
+gio.png
+size: 298,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gio_0
+  rotate: false
+  xy: 2, 2
+  size: 136, 104
+  orig: 136, 104
+  offset: 0, 0
+  index: -1
+gio_3
+  rotate: false
+  xy: 2, 108
+  size: 259, 188
+  orig: 259, 188
+  offset: 0, 0
+  index: -1

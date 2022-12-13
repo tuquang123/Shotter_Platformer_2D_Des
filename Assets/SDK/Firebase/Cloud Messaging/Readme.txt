@@ -1,0 +1,1 @@
+Fix receive nofification crash: Copy play-services-gcm-11.0.4.aar to Assets/Plugin/Android

@@ -1,0 +1,19 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3This Google Mobile Ads plugin library manifest will get merged with your
+4application's manifest, adding the necessary activity and permissions
+5required for displaying ads.
+6-->
+7<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+8    package="com.google.unity.ads"
+9    android:versionCode="1"
+10    android:versionName="1.0" >
+11
+12    <uses-sdk android:targetSdkVersion="19" />
+12-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/GoogleMobileAdsPlugin/AndroidManifest.xml
+13
+14    <application>
+14-->/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/GoogleMobileAdsPlugin/AndroidManifest.xml:12:3-13:17
+15    </application>
+16
+17</manifest>

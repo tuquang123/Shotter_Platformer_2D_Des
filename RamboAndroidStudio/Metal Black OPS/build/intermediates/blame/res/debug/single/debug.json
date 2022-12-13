@@ -1,0 +1,742 @@
+[
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_favicon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xxhdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_com_facebook_login_fragment.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_messenger_button_send_white_small.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_favicon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_com_facebook_device_auth_dialog_fragment.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_com_facebook_tooltip_bubble.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-hdpi_app_icon.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_com_facebook_button_send_background.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_messenger_button_blue_bg_selector.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_messenger_button_send_blue_small.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_ic_stat_ic_notification.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/unity-android-resources/build/intermediates/packaged_res/debug/drawable/ic_stat_ic_notification.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_com_facebook_button_background.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xxhdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_icon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-xhdpi_app_icon.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_messenger_button_send_white_large.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_square.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_header_background.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_com_facebook_button_login_silver_background.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xxhdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_unity_static_splash.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/drawable/unity_static_splash.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_portrait.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xxhdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_favicon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xxhdpi-v4/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_send_icon_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap_app_icon.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/unity-android-resources/build/intermediates/packaged_res/debug/mipmap/app_icon.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_messenger_button_send_white_round.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_icon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xxhdpi-v4/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_messenger_button_send_blue_round.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_messenger_button_white_bg_round.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-ldpi_app_icon_round.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-ldpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_icon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_com_facebook_button_icon.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-mdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_background.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_small_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_com_facebook_activity_layout.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_icon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/color_com_facebook_send_button_text_color.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_background.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_icon_blue.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/color_com_facebook_button_text_color.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_favicon_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-ldpi_app_icon.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-ldpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_messenger_button_white_bg_selector.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-hdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_com_facebook_send_button_icon.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_messenger_button_blue_bg_round.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/src/main/res/mipmap-xxxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_large_white.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/e91790921c910b5c0de2045e813ad59c/com.google.android.gms.play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_close.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-xhdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/layout_messenger_button_send_blue_large.xml.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/a1db22fb19d9bfadf9407fa90acecf7b/facebook-android-sdk-4.13.2/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/blackrock/Desktop/RAMBO/RamboAndroidStudio/Metal Black OPS/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/blackrock/.gradle/caches/transforms-2/files-2.1/4de34232979cbe134bd28b81339a3afe/androidx.core.core-1.0.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

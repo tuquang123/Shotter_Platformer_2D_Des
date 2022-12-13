@@ -1,0 +1,41 @@
+
+packages_ent.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 806, 1
+  size: 234, 505
+  orig: 234, 505
+  offset: 0, 0
+  index: -1
+upgrade enthusiast/%
+  rotate: false
+  xy: 1041, 359
+  size: 133, 56
+  orig: 133, 56
+  offset: 0, 0
+  index: -1
+upgrade enthusiast/gem_pack_1
+  rotate: false
+  xy: 507, 77
+  size: 298, 429
+  orig: 298, 429
+  offset: 0, 0
+  index: -1
+upgrade enthusiast/gold_pack_1
+  rotate: false
+  xy: 1, 31
+  size: 505, 475
+  orig: 505, 475
+  offset: 0, 0
+  index: -1
+upgrade enthusiast/text
+  rotate: false
+  xy: 1041, 416
+  size: 336, 90
+  orig: 336, 90
+  offset: 0, 0
+  index: -1

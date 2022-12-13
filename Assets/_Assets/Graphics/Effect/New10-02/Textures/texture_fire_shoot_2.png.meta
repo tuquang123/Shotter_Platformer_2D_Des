@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: e764f4616c5bad94dbde61b2d849bde9
+timeCreated: 1518285551
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: texture_fire_shoot_2_0
+    21300002: texture_fire_shoot_2_1
+    21300004: texture_fire_shoot_2_2
+    21300006: texture_fire_shoot_2_3
+    21300008: texture_fire_shoot_2_4
+    21300010: texture_fire_shoot_2_5
+    21300012: texture_fire_shoot_2_6
+    21300014: texture_fire_shoot_2_7
+    21300016: texture_fire_shoot_2_8
+    21300018: texture_fire_shoot_2_9
+    21300020: texture_fire_shoot_2_10
+    21300022: texture_fire_shoot_2_11
+    21300024: texture_fire_shoot_2_12
+    21300026: texture_fire_shoot_2_13
+    21300028: texture_fire_shoot_2_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: 54
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 411
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 402
+        width: 117
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 391
+        width: 176
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 389
+        width: 198
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 205
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 259
+        width: 210
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 264
+        width: 213
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 264
+        width: 215
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 131
+        width: 219
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 120
+        width: 220
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 122
+        width: 221
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_11
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 10
+        width: 206
+        height: 243
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 210
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 212
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: texture_fire_shoot_2_14
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3
+        width: 207
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

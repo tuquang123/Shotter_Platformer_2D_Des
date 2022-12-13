@@ -1,0 +1,230 @@
+
+tank_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anten
+  rotate: false
+  xy: 133, 96
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+banh1
+  rotate: false
+  xy: 133, 123
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+banh2
+  rotate: false
+  xy: 409, 376
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+can_xeng
+  rotate: false
+  xy: 1, 23
+  size: 108, 73
+  orig: 108, 73
+  offset: 0, 0
+  index: -1
+cang_thantren
+  rotate: false
+  xy: 442, 443
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+chong1
+  rotate: false
+  xy: 277, 321
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+nong2
+  rotate: false
+  xy: 264, 289
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+nong3
+  rotate: false
+  xy: 1, 1
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+nong3b
+  rotate: false
+  xy: 196, 125
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+nong4
+  rotate: false
+  xy: 302, 303
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+nong_op
+  rotate: false
+  xy: 361, 372
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+nong_phao copy
+  rotate: false
+  xy: 303, 439
+  size: 76, 71
+  orig: 76, 71
+  offset: 0, 0
+  index: -1
+ong1
+  rotate: false
+  xy: 298, 406
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+than1
+  rotate: false
+  xy: 1, 442
+  size: 301, 68
+  orig: 301, 68
+  offset: 0, 0
+  index: -1
+than2
+  rotate: false
+  xy: 1, 333
+  size: 275, 61
+  orig: 275, 61
+  offset: 0, 0
+  index: -1
+than3
+  rotate: false
+  xy: 1, 395
+  size: 296, 46
+  orig: 296, 46
+  offset: 0, 0
+  index: -1
+than4
+  rotate: false
+  xy: 380, 490
+  size: 123, 20
+  orig: 123, 20
+  offset: 0, 0
+  index: -1
+thantran5
+  rotate: false
+  xy: 264, 270
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+thantren6
+  rotate: false
+  xy: 264, 270
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+thantren1a
+  rotate: false
+  xy: 1, 97
+  size: 131, 117
+  orig: 131, 117
+  offset: 0, 0
+  index: -1
+thantren1b
+  rotate: false
+  xy: 1, 215
+  size: 143, 117
+  orig: 143, 117
+  offset: 0, 0
+  index: -1
+thantren2
+  rotate: false
+  xy: 224, 251
+  size: 39, 81
+  orig: 39, 81
+  offset: 0, 0
+  index: -1
+thantren3
+  rotate: false
+  xy: 224, 192
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+thantren4
+  rotate: false
+  xy: 110, 77
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+tru1
+  rotate: false
+  xy: 443, 402
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+tru2
+  rotate: false
+  xy: 277, 353
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+tru3
+  rotate: false
+  xy: 374, 404
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+xeng
+  rotate: false
+  xy: 145, 186
+  size: 78, 146
+  orig: 78, 146
+  offset: 0, 0
+  index: -1
+xeng2
+  rotate: false
+  xy: 317, 369
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+xeng3
+  rotate: false
+  xy: 380, 439
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+xeng4
+  rotate: false
+  xy: 196, 140
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+xich
+  rotate: false
+  xy: 479, 471
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1

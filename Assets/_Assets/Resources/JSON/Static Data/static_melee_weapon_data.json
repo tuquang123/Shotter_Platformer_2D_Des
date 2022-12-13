@@ -1,0 +1,32 @@
+{
+    "600": {
+        "id": 600,
+        "weaponName": "KNIFE",
+        "statsPath": "Scriptable Object/Melee Weapon/Knife/knife_lv{0}",
+        "coinUnlock": 0,
+        "gemUnlock": 0,
+        "medalUnlock": 0,
+        "upgradeInfo": [ 0, 3500, 4375, 4813, 5250, 5600, 5950, 6300, 6650, 7000 ],
+        "otherWayObtain": [ ]
+    },
+    "601": {
+        "id": 601,
+        "weaponName": "PANUBG",
+        "statsPath": "Scriptable Object/Melee Weapon/Pan/pan_lv{0}",
+        "coinUnlock": 0,
+        "gemUnlock": 500,
+        "medalUnlock": 0,
+        "upgradeInfo": [ 0, 4000, 5000, 5500, 6000, 6400, 6800, 7200, 7600, 8000 ],
+        "otherWayObtain": [ ]
+    },
+    "602": {
+        "id": 602,
+        "weaponName": "GUITAR",
+        "statsPath": "Scriptable Object/Melee Weapon/Guitar/guitar_lv{0}",
+        "coinUnlock": 0,
+        "gemUnlock": 700,
+        "medalUnlock": 0,
+        "upgradeInfo": [ 0, 4700, 5875, 6463, 7050, 7520, 7990, 8460, 8930, 9400 ],
+        "otherWayObtain": [ ]
+    }
+}

@@ -1,0 +1,3 @@
+iOS
+	- After build run Terminal, cd to Xcode Project
+	- In Terminal run "pod install"

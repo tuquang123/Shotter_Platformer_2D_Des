@@ -1,0 +1,160 @@
+
+heli_transport.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cang1a
+  rotate: false
+  xy: 450, 61
+  size: 123, 48
+  orig: 123, 48
+  offset: 0, 0
+  index: -1
+cang1b
+  rotate: false
+  xy: 2, 36
+  size: 237, 34
+  orig: 237, 34
+  offset: 0, 0
+  index: -1
+cang2a
+  rotate: false
+  xy: 750, 204
+  size: 129, 42
+  orig: 129, 42
+  offset: 0, 0
+  index: -1
+cang2b
+  rotate: false
+  xy: 2, 2
+  size: 226, 32
+  orig: 226, 32
+  offset: 0, 0
+  index: -1
+canh_quat1
+  rotate: false
+  xy: 887, 182
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+canh_quat2
+  rotate: false
+  xy: 607, 82
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+canh_ten_lua
+  rotate: false
+  xy: 741, 155
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+canhquat
+  rotate: false
+  xy: 268, 66
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+dong_co
+  rotate: false
+  xy: 580, 208
+  size: 168, 38
+  orig: 168, 38
+  offset: 0, 0
+  index: -1
+dong_co2
+  rotate: false
+  xy: 682, 106
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+duoi1
+  rotate: false
+  xy: 818, 168
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+duoi2
+  rotate: false
+  xy: 450, 111
+  size: 128, 135
+  orig: 128, 135
+  offset: 0, 0
+  index: -1
+duoi3
+  rotate: false
+  xy: 682, 139
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+duoi4
+  rotate: false
+  xy: 575, 49
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+duoi_canhquat
+  rotate: false
+  xy: 580, 104
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+ten_lua
+  rotate: false
+  xy: 881, 204
+  size: 78, 42
+  orig: 78, 42
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 72
+  size: 264, 174
+  orig: 264, 174
+  offset: 0, 0
+  index: -1
+truc
+  rotate: false
+  xy: 241, 44
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+truc1
+  rotate: false
+  xy: 721, 108
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+truc2
+  rotate: false
+  xy: 961, 209
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+truc_duoi1
+  rotate: false
+  xy: 607, 53
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+truc_duoi2
+  rotate: false
+  xy: 654, 75
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1

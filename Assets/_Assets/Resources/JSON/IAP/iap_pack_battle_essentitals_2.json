@@ -1,0 +1,38 @@
+[
+    {
+        "type": "GrenadeF1",
+        "value": 30
+    },
+    {
+        "type": "Coin",
+        "value": 25000
+    },
+    {
+        "type": "Gem",
+        "value": 200
+    },
+    {
+        "type": "TournamentTicket",
+        "value": 4
+    },
+    {
+        "type": "BoosterDamage",
+        "value": 5
+    },
+    {
+        "type": "BoosterCritical",
+        "value": 5
+    },
+    {
+        "type": "BoosterSpeed",
+        "value": 5
+    },
+    {
+        "type": "BoosterCoinMagnet",
+        "value": 5
+    },
+    {
+        "type": "BoosterHp",
+        "value": 5
+    }
+]
